@@ -1,7 +1,7 @@
 {
-  "generado": "2026-05-31T05:00:01Z",
+  "generado": "2026-05-31T09:43:04Z",
   "fuente": "http://192.168.1.12:8409/iptv/xmltv.xml",
-  "total": 127,
+  "total": 142,
   "programas": [
     {
       "canal_id": "C1.145.ersatztv.org",
@@ -10,45 +10,14 @@
         "fecha": "2026-05-31",
         "hora": "09:04",
         "dia_semana": "Sunday",
-        "timestamp": "20260531090447",
+        "timestamp": "20260531090411",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "09:30",
+        "hora": "09:28",
         "dia_semana": "Sunday",
-        "timestamp": "20260531093017",
-        "tz": "+0200"
-      },
-      "serie": "Doraemon, el gato cósmico",
-      "episodio_num": "S01E26",
-      "episodio_titulo": "La chica blanca y pura como una azucena",
-      "descripcion": null,
-      "categorias": [
-        "Series",
-        "Action & Adventure",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "09:30",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531093017",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "09:57",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531095704",
+        "timestamp": "20260531092857",
         "tz": "+0200"
       },
       "serie": "Doraemon, el gato cósmico",
@@ -70,21 +39,52 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "09:57",
+        "hora": "09:28",
         "dia_semana": "Sunday",
-        "timestamp": "20260531095704",
+        "timestamp": "20260531092857",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "10:01",
+        "hora": "09:56",
         "dia_semana": "Sunday",
-        "timestamp": "20260531100116",
+        "timestamp": "20260531095604",
+        "tz": "+0200"
+      },
+      "serie": "Doraemon, el gato cósmico",
+      "episodio_num": "S01E08",
+      "episodio_titulo": "La gran estrategia de espionaje",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "09:56",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531095604",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "09:59",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531095956",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Alves, el fiestero",
+      "episodio_titulo": "MarcaToons - Una navidad con los Mourinho",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -95,21 +95,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "10:01",
+        "hora": "09:59",
         "dia_semana": "Sunday",
-        "timestamp": "20260531100116",
+        "timestamp": "20260531095956",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "10:24",
+        "hora": "10:23",
         "dia_semana": "Sunday",
-        "timestamp": "20260531102428",
+        "timestamp": "20260531102311",
         "tz": "+0200"
       },
       "serie": "Shin Chan",
-      "episodio_num": "S00E34",
-      "episodio_titulo": "02x034 (By Antonio2587)",
+      "episodio_num": "S00E107",
+      "episodio_titulo": "03x107 (By LeCHuSo)",
       "descripcion": null,
       "categorias": [
         "Series",
@@ -122,21 +122,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "10:24",
+        "hora": "10:23",
         "dia_semana": "Sunday",
-        "timestamp": "20260531102428",
+        "timestamp": "20260531102311",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "10:46",
+        "hora": "10:45",
         "dia_semana": "Sunday",
-        "timestamp": "20260531104651",
+        "timestamp": "20260531104517",
         "tz": "+0200"
       },
       "serie": "Shin Chan",
-      "episodio_num": "S00E169",
-      "episodio_titulo": "04x169 (By LeCHuSo)",
+      "episodio_num": "S00E52",
+      "episodio_titulo": "02x052 (By LeCHuSo)",
       "descripcion": null,
       "categorias": [
         "Series",
@@ -149,21 +149,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "10:46",
+        "hora": "10:45",
         "dia_semana": "Sunday",
-        "timestamp": "20260531104651",
+        "timestamp": "20260531104517",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "10:54",
+        "hora": "10:52",
         "dia_semana": "Sunday",
-        "timestamp": "20260531105454",
+        "timestamp": "20260531105222",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Mi pueblo no",
+      "episodio_titulo": "MarcaToons - El segundo mejor del mundo",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -174,27 +174,52 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "10:54",
+        "hora": "10:52",
         "dia_semana": "Sunday",
-        "timestamp": "20260531105454",
+        "timestamp": "20260531105222",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "11:12",
+        "hora": "11:10",
         "dia_semana": "Sunday",
-        "timestamp": "20260531111229",
+        "timestamp": "20260531111023",
         "tz": "+0200"
       },
       "serie": "El show de Garfield",
-      "episodio_num": "S01E25",
-      "episodio_titulo": "El asombroso perro volador / La última palabra",
-      "descripcion": "Garfield se burla del sueño de Odie de ser un superhéroe. Más tarde, Nermal le apuesta a Garfield que si no come por una hora, no lo verá por un mes.",
+      "episodio_num": "S01E17",
+      "episodio_titulo": "Fama fatal / El teatro virtual",
+      "descripcion": "Cuando Sir Leo se toma unas vacaciones, Garfield ocupa su lugar y se convierte en una celebridad. Más tarde, ¡Garfield termina dentro del televisor!",
       "categorias": [
         "Series",
         "Animación",
         "Comedia",
         "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "11:10",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531111023",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "11:12",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531111228",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - San Mourinho",
+      "descripcion": null,
+      "categorias": [
+        "Series"
       ]
     },
     {
@@ -204,45 +229,20 @@
         "fecha": "2026-05-31",
         "hora": "11:12",
         "dia_semana": "Sunday",
-        "timestamp": "20260531111229",
+        "timestamp": "20260531111228",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "11:15",
+        "hora": "11:23",
         "dia_semana": "Sunday",
-        "timestamp": "20260531111514",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - El número uno",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "11:15",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531111514",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "11:26",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531112610",
+        "timestamp": "20260531112316",
         "tz": "+0200"
       },
       "serie": "Agallas, el perro cobarde",
-      "episodio_num": "S01E18",
-      "episodio_titulo": "Todo el mundo quiere dirigir",
-      "descripcion": "Un misterioso director de cine independiente llamado Benton Tarantella visita el caserío una noche oscura, y convence a los bagges de formar parte de su película de cine. Sospechando las siniestras intenciones del director, Coraje decide encontrar una manera de salvar a su familia de una terrible muerte.",
+      "episodio_num": "S01E04",
+      "episodio_titulo": "Dr. Le Quack, Especialista en Amnesia",
+      "descripcion": "Justo golpea sin querer a Muriel en la cabeza provocándole un ataque de amnesia, y aprovecha la oportunidad para sacar a Coraje de la casa y poner a Muriel como su esclava, pero Coraje pide ayuda al Dr. Le Quack, un supuesto especialista en amnesia.",
       "categorias": [
         "Series",
         "Animación",
@@ -257,22 +257,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "11:26",
+        "hora": "11:23",
         "dia_semana": "Sunday",
-        "timestamp": "20260531112610",
+        "timestamp": "20260531112316",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "11:39",
+        "hora": "11:37",
         "dia_semana": "Sunday",
-        "timestamp": "20260531113949",
+        "timestamp": "20260531113703",
         "tz": "+0200"
       },
       "serie": "Agallas, el perro cobarde",
-      "episodio_num": "S03E13",
-      "episodio_titulo": "El banquete de las ranas",
-      "descripcion": "Un grupo de ranas, cuyo estanque se secó, empieza a invadir la casa de los Bagge para crear uno nuevo, e intentan esclavizar a Justo, Muriel y Coraje obligándolos a actuar como ranas.",
+      "episodio_num": "S02E14",
+      "episodio_titulo": "Mega Muriel, la magnífica",
+      "descripcion": "Una tormenta eléctrica provoca que la computadora de Coraje cobre vida y se mete en el cuerpo de Muriel para demostrar su valor y que no le teme a la muerte, para el horror de coraje, debe hacer todo lo posible para que no le suceda nada a Muriel.",
       "categorias": [
         "Series",
         "Animación",
@@ -287,21 +287,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "11:39",
+        "hora": "11:37",
         "dia_semana": "Sunday",
-        "timestamp": "20260531113949",
+        "timestamp": "20260531113703",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "11:44",
+        "hora": "11:41",
         "dia_semana": "Sunday",
-        "timestamp": "20260531114454",
+        "timestamp": "20260531114156",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Mourinho ayuda a Guardiola",
+      "episodio_titulo": "MarcaToons - A todo Gas",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -312,22 +312,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "11:44",
+        "hora": "11:41",
         "dia_semana": "Sunday",
-        "timestamp": "20260531114454",
+        "timestamp": "20260531114156",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "11:56",
+        "hora": "11:53",
         "dia_semana": "Sunday",
-        "timestamp": "20260531115603",
+        "timestamp": "20260531115301",
         "tz": "+0200"
       },
       "serie": "Hora de aventuras",
-      "episodio_num": "S07E25",
-      "episodio_titulo": "El Hechizo de la Flauta",
-      "descripcion": "Jake descubre que Finn ha estado teniendo reuniones clandestinas con un poderoso mago.",
+      "episodio_num": "S07E20",
+      "episodio_titulo": "Mal Rollo",
+      "descripcion": "Finn y los demás deben soportar un alterado clima.",
       "categorias": [
         "Series",
         "Animación",
@@ -340,22 +340,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "11:56",
+        "hora": "11:53",
         "dia_semana": "Sunday",
-        "timestamp": "20260531115603",
+        "timestamp": "20260531115301",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "12:07",
+        "hora": "12:14",
         "dia_semana": "Sunday",
-        "timestamp": "20260531120702",
+        "timestamp": "20260531121434",
         "tz": "+0200"
       },
       "serie": "Hora de aventuras",
-      "episodio_num": "S08E20",
-      "episodio_titulo": "Islas, parte 1: La Invitación",
-      "descripcion": "Una nave misteriosa invade Ooo y Finn cree que puede tener los secretos de su pasado.",
+      "episodio_num": "S07E14",
+      "episodio_titulo": "Cuanto Más Moe, Moe Sabes / Cuanto Más Moe, Moe Sabes (II)",
+      "descripcion": "El cumpleaños de BMO y Navidad se celebran, en el cual será un adulto, aunque Finn recalca que éste nunca ha nacido realmente. BMO espera la llegada de un invitado especial: MOE, su papá y creador. En la fiesta, él lo envía a una misión en solitario para que finalmente se convierta en adulto, y BMO parte, aunque, cuando llega a la fábrica de los MO, comienza a dudar de esta misión. BMO descubre quién es en realidad este \"MOE\". / ",
       "categorias": [
         "Series",
         "Animación",
@@ -368,22 +368,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "12:07",
+        "hora": "12:14",
         "dia_semana": "Sunday",
-        "timestamp": "20260531120702",
+        "timestamp": "20260531121434",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "12:22",
+        "hora": "12:30",
         "dia_semana": "Sunday",
-        "timestamp": "20260531122213",
+        "timestamp": "20260531123041",
         "tz": "+0200"
       },
       "serie": "Hora de aventuras",
-      "episodio_num": "S10E01",
-      "episodio_titulo": "Cacería Salvaje",
-      "descripcion": "Una criatura feroz aterroriza al Dulce Reino, pero antes de que Finn pueda matar a la bestia, primero debe superar un remordimiento en su conciencia.",
+      "episodio_num": "S01E13",
+      "episodio_titulo": "La Ciudad de los Ladrones",
+      "descripcion": "Finn y Jake, con la esperanza de ayudar a Penny, una niña que le han robado una cesta de flores, entraran en una ciudad donde todo el mundo es un ladrón, pero poco a poco ellos serán corrompido por su entorno.\n\n      ",
       "categorias": [
         "Series",
         "Animación",
@@ -396,16 +396,235 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "12:22",
+        "hora": "12:30",
         "dia_semana": "Sunday",
-        "timestamp": "20260531122213",
+        "timestamp": "20260531123041",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "12:29",
+        "hora": "12:37",
         "dia_semana": "Sunday",
-        "timestamp": "20260531122904",
+        "timestamp": "20260531123733",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Médicos iluminados",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "12:37",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531123733",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "13:03",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531130355",
+        "tz": "+0200"
+      },
+      "serie": "Fan Boy y Chum Chum",
+      "episodio_num": "S02E20",
+      "episodio_titulo": "Episodio 20",
+      "descripcion": "The boys get their hands on a new video game, \"Sigmund the Sorcerer's Wiizard Challenge!\" Kyle is uninterested and scoffs at Sigmund's merchandazzle ... until he finds out the winner of the game gets admittance to Milkweed Academy.",
+      "categorias": [
+        "Series",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "13:03",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531130355",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "13:07",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531130758",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - El mote de Mourinho",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "13:07",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531130758",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "13:34",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531133412",
+        "tz": "+0200"
+      },
+      "serie": "Bob Esponja",
+      "episodio_num": "S02E14",
+      "episodio_titulo": "Supervivencia de los Idiotas",
+      "descripcion": "A pesar de la advertencia de Arenita, Bob Esponja y Patrick se cuelan en su treedome, durante una terrible tormenta de nieve y como el pomo de la puerta está congelado, Bob Esponja y Patrick se dan cuenta de que tienen que esperar hasta la primavera. ¿Podrán Bob Esponja y Patricio sobrevivir todo el invierno? ¿O Arenita y el clima frío los detendrán primero?",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "13:34",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531133412",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "14:00",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531140025",
+        "tz": "+0200"
+      },
+      "serie": "Bob Esponja",
+      "episodio_num": "S03E16",
+      "episodio_titulo": "Una nana para Bivalvo",
+      "descripcion": "Bob Esponja y Patricio se encuentran una almeja bebé y deciden criarla ellos.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "14:00",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531140025",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "14:03",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531140341",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Casillas llama a sus amigos",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "14:03",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531140341",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "14:14",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531141444",
+        "tz": "+0200"
+      },
+      "serie": "Tito Yayo",
+      "episodio_num": "S01E29",
+      "episodio_titulo": "Camión Comida",
+      "descripcion": "Pizza Steve planea ganar suficiente dinero para comprar su propio Jet vendiendo el delicioso platillo de Tío Grandpa, las \"Salchichanburguesas\".",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "14:14",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531141444",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "14:26",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531142630",
+        "tz": "+0200"
+      },
+      "serie": "Tito Yayo",
+      "episodio_num": "S02E24",
+      "episodio_titulo": "El amigo invisible",
+      "descripcion": "La pandilla de Tito Yayo busca el mejor regalo para el amigo invisible.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "14:26",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531142630",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "14:29",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531142938",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
@@ -421,241 +640,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "12:29",
+        "hora": "14:29",
         "dia_semana": "Sunday",
-        "timestamp": "20260531122904",
+        "timestamp": "20260531142938",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "12:55",
+        "hora": "14:54",
         "dia_semana": "Sunday",
-        "timestamp": "20260531125527",
-        "tz": "+0200"
-      },
-      "serie": "Fan Boy y Chum Chum",
-      "episodio_num": "S02E09",
-      "episodio_titulo": "Episodio 9",
-      "descripcion": "Lenny desperately wants to win the \"Frosty Mart Dream Vacation,\" but sure enough, Fanboy and Chum Chum win it instead. However, the boys think the dream vacation is actually in the Frosty Mart.",
-      "categorias": [
-        "Series",
-        "Action & Adventure",
-        "Animación",
-        "Comedia",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "12:55",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531125527",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "12:59",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531125950",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Cristiano vs. Messi",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "12:59",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531125950",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "13:25",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531132556",
-        "tz": "+0200"
-      },
-      "serie": "Bob Esponja",
-      "episodio_num": "S02E13",
-      "episodio_titulo": "Los Colorburguers",
-      "descripcion": "El Crustáceo Crujiente no ha tenido clientes en semanas, por lo que Bob Esponja tiene una idea, pero Don Cangrejo y Calamardo se ríen de la idea. Así que Bob Esponja abre su propio restaurante y se convierte en un gran éxito en Fondo de Bikini.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "13:25",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531132556",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "13:52",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531135204",
-        "tz": "+0200"
-      },
-      "serie": "Bob Esponja",
-      "episodio_num": "S03E09",
-      "episodio_titulo": "Como en la tele",
-      "descripcion": "Bob Esponja hace un cameo de un segundo en un anuncio del Crustáceo Crujiente.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "13:52",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531135204",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "13:54",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531135458",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Campeones ¡Oe oe oe!",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "13:54",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531135458",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "14:06",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531140609",
-        "tz": "+0200"
-      },
-      "serie": "Tito Yayo",
-      "episodio_num": "S02E08",
-      "episodio_titulo": "El paquete",
-      "descripcion": "La pandilla se vuelve loca al no poder abrir un misterioso paquete.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "14:06",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531140609",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "14:18",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531141801",
-        "tz": "+0200"
-      },
-      "serie": "Tito Yayo",
-      "episodio_num": "S05E16",
-      "episodio_titulo": "Una pizza adulta",
-      "descripcion": "Pizza Steve intenta probarle a Tito Yayo que no es ningún bebé.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "14:18",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531141801",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "14:20",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531142047",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Regreso al pasado",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "14:20",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531142047",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "14:45",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531144541",
+        "timestamp": "20260531145438",
         "tz": "+0200"
       },
       "serie": "Los Simpson",
-      "episodio_num": "S03E24",
-      "episodio_titulo": "Hermano, ¿me prestas dos monedas?",
-      "descripcion": "Burns se entera de que Homer es estéril debido a las radiaciones de la Central Nuclear y sus abogados le aconsejan que le pague 2.000 dólares para evitar una demanda. Herb, el hermanastro de Homer que ahora es vagabundo, se entera de la noticia y viaja a Springfield, dispuesto a volver a hacerse millonario gracias a una nueva idea que pretende desarrollar con los 2000 dólares de Homer, quien termina accediendo por estar en deuda con Herb.",
+      "episodio_num": "S03E18",
+      "episodio_titulo": "Vocaciones separadas",
+      "descripcion": "En un test que orienta a los alumnos sobre lo que podrían ser de mayores de acuerdo con sus respuestas, a Bart le sale que será policía y a Lisa, que será ama de casa. Este resultado anima a Bart y deprime a Lisa, que se vuelve desobediente y respondona en clase.",
       "categorias": [
         "Series",
         "Animación",
@@ -668,22 +668,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "14:45",
+        "hora": "14:54",
         "dia_semana": "Sunday",
-        "timestamp": "20260531144541",
+        "timestamp": "20260531145438",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "15:09",
+        "hora": "15:17",
         "dia_semana": "Sunday",
-        "timestamp": "20260531150917",
+        "timestamp": "20260531151733",
         "tz": "+0200"
       },
       "serie": "Los Simpson",
-      "episodio_num": "S05E05",
-      "episodio_titulo": "La casa-árbol del terror IV",
-      "descripcion": "Bart presenta historias de miedo basadas en los cuadros de un museo.",
+      "episodio_num": "S05E15",
+      "episodio_titulo": "Homer en el espacio exterior",
+      "descripcion": "La NASA recibe los índices de audiencia de su último lanzamiento y descubren horrorizados que ha tenido la peor audiencia de la historia de los lanzamientos espaciales. Deciden entonces enviar en el próximo lanzamiento a una persona normal y corriente para que la gente se sienta identificada. Homer consigue el puesto y es enviado al espacio con dos astronautas de verdad. Los problemas durante el viaje irán en aumento.",
       "categorias": [
         "Series",
         "Animación",
@@ -696,21 +696,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "15:09",
+        "hora": "15:17",
         "dia_semana": "Sunday",
-        "timestamp": "20260531150917",
+        "timestamp": "20260531151733",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "15:11",
+        "hora": "15:19",
         "dia_semana": "Sunday",
-        "timestamp": "20260531151132",
+        "timestamp": "20260531151947",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Los dos quieren perder",
+      "episodio_titulo": "MarcaToons - Propósitos para año nuevo",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -721,22 +721,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "15:11",
+        "hora": "15:19",
         "dia_semana": "Sunday",
-        "timestamp": "20260531151132",
+        "timestamp": "20260531151947",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "15:36",
+        "hora": "15:44",
         "dia_semana": "Sunday",
-        "timestamp": "20260531153642",
+        "timestamp": "20260531154448",
         "tz": "+0200"
       },
       "serie": "Malcolm",
-      "episodio_num": "S03E17",
-      "episodio_titulo": "El perro de Dewey",
-      "descripcion": "Dewey trae un perro a escondidas de sus padres; Hal y Lois tratan de mantener una cita amorosa, a pesar de que ambos están enfermos; el comandante Spangler encuentra a Francis en el campamento.",
+      "episodio_num": "S07E08",
+      "episodio_titulo": "Camarada del ejército",
+      "descripcion": "Reese recibe la visita de su amiga del ejército, la cual se enamoró de Lois.",
       "categorias": [
         "Series",
         "Comedia"
@@ -747,22 +747,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "15:36",
+        "hora": "15:44",
         "dia_semana": "Sunday",
-        "timestamp": "20260531153642",
+        "timestamp": "20260531154448",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "16:00",
+        "hora": "16:07",
         "dia_semana": "Sunday",
-        "timestamp": "20260531160003",
+        "timestamp": "20260531160753",
         "tz": "+0200"
       },
       "serie": "Malcolm",
-      "episodio_num": "S07E07",
-      "episodio_titulo": "El apagón",
-      "descripcion": "Hay un apagón en la casa (provocado por Jamie) y eso sucede cuando Hal y Lois planean cenar en la casa para celebrar su aniversario, mientras que Hal le pide a Reese que cocine Carne de Kobe, mientras que por otra parte Francis planea robarse el trofeo de un pez en la cochera y le miente a Lois sobre su matrimonio para mantenerla distraída y Malcolm trae a tres chicas europeas para hacer una fiesta y tiene que sacar a sus papás de la casa. Al final, Dewey se expropia la fiesta de Malcolm y Reese, y obtiene la cena que quiere. Al estilo de Corre, Lola, corre, el episodio está dividido en tres partes, ambientadas en tres lugares diferentes de la casa: la habitación de los padres, el patio trasero y la cocina.",
+      "episodio_num": "S05E12",
+      "episodio_titulo": "Sóftbol",
+      "descripcion": "Quinta temporada de esta comedia relata a través de los ojos de Malcolm, un joven superdotado casi marginado en el seno de su familia, la convivencia de una estrafalaria y disfuncional familia de clase media constituida por cuatro hermanos y sus dos progenitores.",
       "categorias": [
         "Series",
         "Comedia"
@@ -773,21 +773,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "16:00",
+        "hora": "16:07",
         "dia_semana": "Sunday",
-        "timestamp": "20260531160003",
+        "timestamp": "20260531160753",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "16:03",
+        "hora": "16:11",
         "dia_semana": "Sunday",
-        "timestamp": "20260531160331",
+        "timestamp": "20260531161119",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Messi en La Roja",
+      "episodio_titulo": "MarcaToons - Quien fue a Sevilla...",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -798,22 +798,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "16:03",
+        "hora": "16:11",
         "dia_semana": "Sunday",
-        "timestamp": "20260531160331",
+        "timestamp": "20260531161119",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "16:28",
+        "hora": "16:36",
         "dia_semana": "Sunday",
-        "timestamp": "20260531162829",
+        "timestamp": "20260531163639",
         "tz": "+0200"
       },
       "serie": "Los pingüinos de Madagascar",
-      "episodio_num": "S01E09",
-      "episodio_titulo": "Con los pies en la tierra",
-      "descripcion": "Mort se queda obsesionado con los pies de Julien, así que éste le prohíbe tocarlos más o si no se retira de su \"reino\", termina retirándose, por lo que pide ayuda a Marlene (la nutria) y ella a su vez le pide ayuda a los pingüinos, asimismo Skipper le pone un entrenamiento duro, ya que al fin se quitó esa obsesión, Julien está en peligro y la única forma de salvarlo es agarrando sus pies, Mort lo salva y Julien quita la regla de no tocar los pies del rey.",
+      "episodio_num": "S01E01",
+      "episodio_titulo": "Hago flash y desaparezco",
+      "descripcion": "Maurice está cansado de seguir las órdenes de Julien y de vivir con él. Un día Maurice se pierde a causa de un flash que lo ciega y los pingüinos deciden ir a buscarlo, cuando lo encuentran se dan cuenta que Maurice está contento de estar lejos de Julien y no quiere regresar, así que los pingüinos lo convencen de volver. Mientras tanto, Julien piensa que está dentro de la cámara e intenta sacarlo de ahí. Al final Maurice regresa con el Rey Julien y éste cree haberlo sacado de la cámara.",
       "categorias": [
         "Series",
         "Animación",
@@ -827,22 +827,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "16:28",
+        "hora": "16:36",
         "dia_semana": "Sunday",
-        "timestamp": "20260531162829",
+        "timestamp": "20260531163639",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "16:53",
+        "hora": "17:02",
         "dia_semana": "Sunday",
-        "timestamp": "20260531165339",
+        "timestamp": "20260531170210",
         "tz": "+0200"
       },
       "serie": "Los pingüinos de Madagascar",
-      "episodio_num": "S02E25",
-      "episodio_titulo": "Al Borde de la Locura",
-      "descripcion": "Los pingüinos hacen una prueba de conducción en el zoológico, cuando es el turno de Rico este se obsesiona y conduce todo el día sin parar hasta que Skipper le ordena que pare, en el estacionamiento Rico se encuentra con Kowalski quien le muestra sus nuevos inventos. En la noche Rico quería volver a manejar así que desobedece a Skipper y saca el auto, pero Rico lo estrella, así que lo debe reparar antes de que los demás despierten. Por error Rico confunde una pieza y mete uno de los inventos de Kowalski el cual hace que el carro cobre vida y quiera eliminar a Rico por lo que le hizo.",
+      "episodio_num": "S02E39",
+      "episodio_titulo": "Operación: Drama",
+      "descripcion": "Cabo empieza a recitar a Sheakspeare.",
       "categorias": [
         "Series",
         "Animación",
@@ -856,21 +856,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "16:53",
+        "hora": "17:02",
         "dia_semana": "Sunday",
-        "timestamp": "20260531165339",
+        "timestamp": "20260531170210",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "16:56",
+        "hora": "17:05",
         "dia_semana": "Sunday",
-        "timestamp": "20260531165639",
+        "timestamp": "20260531170554",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Neymar, Neymar, Neymar",
+      "episodio_titulo": "MarcaToons - El número uno",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -881,22 +881,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "16:56",
+        "hora": "17:05",
         "dia_semana": "Sunday",
-        "timestamp": "20260531165639",
+        "timestamp": "20260531170554",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "17:19",
+        "hora": "17:12",
         "dia_semana": "Sunday",
-        "timestamp": "20260531171939",
+        "timestamp": "20260531171257",
         "tz": "+0200"
       },
       "serie": "Las macabras aventuras de Billy y Mandy",
-      "episodio_num": "S05E06",
-      "episodio_titulo": "Calavera andante / El fracasado del nucleo de la Tierra",
-      "descripcion": "Sherlock, un Amigo de los Búhos inculpa a Calavera de que amarra Búhos. / ",
+      "episodio_num": "S02E03",
+      "episodio_titulo": "¡Un monstruo del juego!",
+      "descripcion": "Calavera da vida a las criaturas del Póker de Monstruos de Billy e Irwin. Pero al verles con monstruos reales, el resto de jugadores de la ciudad exigen que les dé vida también a todos sus monstruos.",
       "categorias": [
         "Series",
         "Animación",
@@ -909,22 +909,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "17:19",
+        "hora": "17:12",
         "dia_semana": "Sunday",
-        "timestamp": "20260531171939",
+        "timestamp": "20260531171257",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "17:44",
+        "hora": "17:21",
         "dia_semana": "Sunday",
-        "timestamp": "20260531174453",
+        "timestamp": "20260531172150",
         "tz": "+0200"
       },
       "serie": "Las macabras aventuras de Billy y Mandy",
-      "episodio_num": "S06E01",
-      "episodio_titulo": "Billy en el mar / Billy paleto",
-      "descripcion": "Billy es tragado por una ballena y en su interior se encuentra con Pinocho-cho-cho. / Billy decide realizar el sueño de su vida en la granja, ser un malabarista de pollitos.",
+      "episodio_num": "S01E13",
+      "episodio_titulo": "Buscando amigos",
+      "descripcion": "Orco rapta a Billy y Mandy después de los acontecimientos del episodio donde los secuestró.",
       "categorias": [
         "Series",
         "Animación",
@@ -937,21 +937,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "17:44",
+        "hora": "17:21",
         "dia_semana": "Sunday",
-        "timestamp": "20260531174453",
+        "timestamp": "20260531172150",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "17:48",
+        "hora": "17:24",
         "dia_semana": "Sunday",
-        "timestamp": "20260531174825",
+        "timestamp": "20260531172434",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - La cosa está muy mala",
+      "episodio_titulo": "MarcaToons - El guapo de Cristiano",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -962,16 +962,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "17:48",
+        "hora": "17:24",
         "dia_semana": "Sunday",
-        "timestamp": "20260531174825",
+        "timestamp": "20260531172434",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "18:13",
+        "hora": "17:49",
         "dia_semana": "Sunday",
-        "timestamp": "20260531181314",
+        "timestamp": "20260531174924",
         "tz": "+0200"
       },
       "serie": "Campamento Lazlo",
@@ -990,21 +990,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "18:13",
+        "hora": "17:49",
         "dia_semana": "Sunday",
-        "timestamp": "20260531181314",
+        "timestamp": "20260531174924",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "18:18",
+        "hora": "17:55",
         "dia_semana": "Sunday",
-        "timestamp": "20260531181827",
+        "timestamp": "20260531175500",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Hola, guapo",
+      "episodio_titulo": "MarcaToons - Grandes Misterios del Universo",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -1015,16 +1015,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "18:18",
+        "hora": "17:55",
         "dia_semana": "Sunday",
-        "timestamp": "20260531181827",
+        "timestamp": "20260531175500",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "18:42",
+        "hora": "18:18",
         "dia_semana": "Sunday",
-        "timestamp": "20260531184219",
+        "timestamp": "20260531181853",
         "tz": "+0200"
       },
       "serie": "El show de Aday",
@@ -1038,16 +1038,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "18:42",
+        "hora": "18:18",
         "dia_semana": "Sunday",
-        "timestamp": "20260531184219",
+        "timestamp": "20260531181853",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "20:08",
+        "hora": "19:44",
         "dia_semana": "Sunday",
-        "timestamp": "20260531200808",
+        "timestamp": "20260531194436",
         "tz": "+0200"
       },
       "serie": "Borat",
@@ -1064,21 +1064,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "20:08",
+        "hora": "19:44",
         "dia_semana": "Sunday",
-        "timestamp": "20260531200808",
+        "timestamp": "20260531194436",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "20:11",
+        "hora": "19:47",
         "dia_semana": "Sunday",
-        "timestamp": "20260531201129",
+        "timestamp": "20260531194750",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Con bigotes y a lo loco",
+      "episodio_titulo": "MarcaToons - La cosa está muy mala",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -1089,22 +1089,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "20:11",
+        "hora": "19:47",
         "dia_semana": "Sunday",
-        "timestamp": "20260531201129",
+        "timestamp": "20260531194750",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "20:36",
+        "hora": "20:12",
         "dia_semana": "Sunday",
-        "timestamp": "20260531203619",
+        "timestamp": "20260531201208",
         "tz": "+0200"
       },
       "serie": "Chowder",
-      "episodio_num": "S02E11",
-      "episodio_titulo": "Episodio 11",
-      "descripcion": null,
+      "episodio_num": "S02E02",
+      "episodio_titulo": "Episodio 2",
+      "descripcion": "Panini for President - When Panini declares herself president of the apprentice's society, Gorgonzola (through Chowder) competes against her. Chowder's Babysitter - While babysitting Chowder, Gazpacho thinks he has killed Chowder ...",
       "categorias": [
         "Series",
         "Animación",
@@ -1117,21 +1117,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "20:36",
+        "hora": "20:12",
         "dia_semana": "Sunday",
-        "timestamp": "20260531203619",
+        "timestamp": "20260531201208",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "20:40",
+        "hora": "20:15",
         "dia_semana": "Sunday",
-        "timestamp": "20260531204002",
+        "timestamp": "20260531201509",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Grandes Misterios del Universo",
+      "episodio_titulo": "MarcaToons - El Getafe B es muy rápido",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -1142,102 +1142,102 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "20:40",
+        "hora": "20:15",
         "dia_semana": "Sunday",
-        "timestamp": "20260531204002",
+        "timestamp": "20260531201509",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "20:26",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531202633",
+        "tz": "+0200"
+      },
+      "serie": "Historias corrientes",
+      "episodio_num": "S03E18",
+      "episodio_titulo": "Modelo de bombos",
+      "descripcion": "Musculitos se revela como un modelo de barrigas destinado a hacer historia.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "20:26",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531202633",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "20:37",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531203727",
+        "tz": "+0200"
+      },
+      "serie": "Historias corrientes",
+      "episodio_num": "S07E22",
+      "episodio_titulo": "Noche de tíos 2",
+      "descripcion": "Los chicos quieren celebrar con Thomas una noche épica antes de que se marche.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "20:37",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531203727",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "20:49",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531204904",
+        "tz": "+0200"
+      },
+      "serie": "Historias corrientes",
+      "episodio_num": "S07E03",
+      "episodio_titulo": "El club del papeo",
+      "descripcion": "Rigby arruina la comida elegante de Maellard y tiene que escribir una carta de renuncia.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "20:49",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531204904",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
         "hora": "20:50",
         "dia_semana": "Sunday",
-        "timestamp": "20260531205057",
-        "tz": "+0200"
-      },
-      "serie": "Historias corrientes",
-      "episodio_num": "S08E07",
-      "episodio_titulo": "El guerrero de los sueños",
-      "descripcion": "Los chicos ayudan a Pops a superar sus pesadillas.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "20:50",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531205057",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "21:01",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531210146",
-        "tz": "+0200"
-      },
-      "serie": "Historias corrientes",
-      "episodio_num": "S08E13",
-      "episodio_titulo": "La carrera espacial",
-      "descripcion": "Los chicos echan una carrera en el espacio.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "21:01",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531210146",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "21:13",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531211333",
-        "tz": "+0200"
-      },
-      "serie": "Historias corrientes",
-      "episodio_num": "S07E30",
-      "episodio_titulo": "Marvolo el mago",
-      "descripcion": "Pops cree que es un mago atrapado en el medievo y quiere volver a casa.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "21:13",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531211333",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "21:15",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531211543",
+        "timestamp": "20260531205059",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - San Mourinho",
+      "episodio_titulo": "MarcaToons - Loca loca",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -1248,22 +1248,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "21:15",
+        "hora": "20:50",
         "dia_semana": "Sunday",
-        "timestamp": "20260531211543",
+        "timestamp": "20260531205059",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "21:40",
+        "hora": "21:14",
         "dia_semana": "Sunday",
-        "timestamp": "20260531214014",
+        "timestamp": "20260531211437",
         "tz": "+0200"
       },
       "serie": "Futurama",
-      "episodio_num": "S03E06",
-      "episodio_titulo": "Amor sin dobleces",
-      "descripcion": "Bender se vuelve sonámbulo y causa estragos en Planet Express al doblar incontroladamente cosas por la noche. Para controlar sus impulsos, el profesor Farnsworth lo envía a una fábrica de dobladores donde Bender se enamora de Anglelyne. Pero Flexo, un robot igual a Bender, le ofrece competencia.\n\n      ",
+      "episodio_num": "S02E04",
+      "episodio_titulo": "Fry y la fábrica de Slurm",
+      "descripcion": "Fry gana un viaje a la fábrica de Slurm, la bebida más adictiva de la época, y, junto con Leela y Bender, descubre el \"El Secreto de Slurm\", que es algo mucho más asqueroso de lo que todo el mundo se imagina. Cuando descubren el secreto, Fry, Leela y Bender son perseguidos por los guardias, que tienen órdenes de acabar con ellos.",
       "categorias": [
         "Series",
         "Animación",
@@ -1276,22 +1276,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "21:40",
+        "hora": "21:14",
         "dia_semana": "Sunday",
-        "timestamp": "20260531214014",
+        "timestamp": "20260531211437",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "22:05",
+        "hora": "21:39",
         "dia_semana": "Sunday",
-        "timestamp": "20260531220544",
+        "timestamp": "20260531213952",
         "tz": "+0200"
       },
       "serie": "Futurama",
-      "episodio_num": "S02E01",
-      "episodio_titulo": "Un vuelo inolvidable",
-      "descripcion": "El profesor Farnsworth invita a todos los trabajadores de Planet Express a un viaje por el espacio con la más grande y más segura nave de la historia... la Titanic, destinada a acabar como el barco del mismo nombre. Fry tiene que fingir que es el novio de Leela, para que Zapp no intente ligar con la cíclope, y el de Amy, para que sus padres no le busquen más novios. Mientras, Bender se enamora de una mujer robot de primera clase.",
+      "episodio_num": "S01E04",
+      "episodio_titulo": "Trabajo de amor perdido en el espacio",
+      "descripcion": "En una misión para salvar animales en peligro de un planeta en destrucción, la solitaria Leela se encuentra con el legendario capitán espacial Zapp. \n\n      ",
       "categorias": [
         "Series",
         "Animación",
@@ -1304,95 +1304,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "22:05",
+        "hora": "21:39",
         "dia_semana": "Sunday",
-        "timestamp": "20260531220544",
+        "timestamp": "20260531213952",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "22:10",
+        "hora": "21:43",
         "dia_semana": "Sunday",
-        "timestamp": "20260531221027",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Ultimátum a Mourinho",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "22:10",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531221027",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "22:37",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531223735",
-        "tz": "+0200"
-      },
-      "serie": "South Park",
-      "episodio_num": "S05E13",
-      "episodio_titulo": "Kenny muere",
-      "descripcion": "Kenny contrae una enfermedad muscular y muere \"permanentemente\". Por otro lado, Cartman está en el negocio de la venta de fetos muertos.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "22:37",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531223735",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "23:01",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531230150",
-        "tz": "+0200"
-      },
-      "serie": "South Park",
-      "episodio_num": "S18E08",
-      "episodio_titulo": "Pollimagic",
-      "descripcion": "Kenny llama la atención de los niños con un juego muy extraño, y Wendy intenta controlar a Stan para que se concentre solo en ella, después descubre que él siempre pone a sus amigos primero.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-05-31",
-        "hora": "23:01",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531230150",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-05-31",
-        "hora": "23:05",
-        "dia_semana": "Sunday",
-        "timestamp": "20260531230505",
+        "timestamp": "20260531214354",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
@@ -1408,22 +1329,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "23:05",
+        "hora": "21:43",
         "dia_semana": "Sunday",
-        "timestamp": "20260531230505",
+        "timestamp": "20260531214354",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "23:27",
+        "hora": "22:11",
         "dia_semana": "Sunday",
-        "timestamp": "20260531232743",
+        "timestamp": "20260531221111",
         "tz": "+0200"
       },
-      "serie": "Padre de familia",
-      "episodio_num": "S05E17",
-      "episodio_titulo": "Necesitáis un tonto del pueblo y yo estoy casada con uno",
-      "descripcion": "Lois ofrece su candidatura como alcaldesa para tirar del ayuntamiento a West, pero no empezará a ganar en las encuestas hasta que empieza a decir tonterías para ganarse al electorado. Una vez elegida alcaldesa, no tarda en sucumbir al poder.",
+      "serie": "South Park",
+      "episodio_num": "S12E01",
+      "episodio_titulo": "Problema de amígdalas",
+      "descripcion": "Cartman está enfermo de las amígdalas y se las van a tener que quitar, pero en la operación por error le ponen sangre con VIH, así que, cuando lo llevan a la escuela, Kyle no se deja de burlar de él.",
       "categorias": [
         "Series",
         "Animación",
@@ -1435,22 +1356,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "23:27",
+        "hora": "22:11",
         "dia_semana": "Sunday",
-        "timestamp": "20260531232743",
+        "timestamp": "20260531221111",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "23:52",
+        "hora": "22:35",
         "dia_semana": "Sunday",
-        "timestamp": "20260531235210",
+        "timestamp": "20260531223507",
         "tz": "+0200"
       },
-      "serie": "Padre de familia",
-      "episodio_num": "S02E09",
-      "episodio_titulo": "Que mienta si muero",
-      "descripcion": "Cuando cancelan la serie favorita de Chris y Peter, éste pretende hacer pasar a su hijo por un enfermo terminal y contar la historia en \"\"Grant-Dream Foundation\"\" con el objetivo de cumplir su \"última voluntad\": reponer de nuevo la serie. Cuando Lois obliga a Peter a decir la verdad, éste les engaña diciendo que acaba de curar a su hijo, las mentiras de Peter llegan legos cuando al día siguiente lo toman por un curandero.",
+      "serie": "South Park",
+      "episodio_num": "S04E15",
+      "episodio_titulo": "Campamento para gordos",
+      "descripcion": "Cartman es enviado a un campamento para perder peso y hara lo posible por escapar. A Kenny le pagan por hacer cosas asquerosas y se convierte en estrella de la televisión en el show del loco Kenny.",
       "categorias": [
         "Series",
         "Animación",
@@ -1462,21 +1383,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "23:52",
+        "hora": "22:35",
         "dia_semana": "Sunday",
-        "timestamp": "20260531235210",
+        "timestamp": "20260531223507",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-05-31",
-        "hora": "23:54",
+        "hora": "22:38",
         "dia_semana": "Sunday",
-        "timestamp": "20260531235429",
+        "timestamp": "20260531223818",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Renovarse o morir",
+      "episodio_titulo": "MarcaToons - Los nervios de Guardiola",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -1487,22 +1408,155 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-05-31",
-        "hora": "23:54",
+        "hora": "22:38",
         "dia_semana": "Sunday",
-        "timestamp": "20260531235429",
+        "timestamp": "20260531223818",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "23:00",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531230028",
+        "tz": "+0200"
+      },
+      "serie": "Padre de familia",
+      "episodio_num": "S06E05",
+      "episodio_titulo": "Lois mata a Stewie",
+      "descripcion": "Tras ser dada por muerta durante un año, Lois revela a todos que Stewie intentó matarla. Stewie huye como fugitivo y se esconde en su casa donde toma como rehenes a su familia huyendo después a Washington D.C con intención de dominar el mundo. Lois decide tomar la difícil decisión de enfrentarse a su hijo.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "23:00",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531230028",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "23:24",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531232422",
+        "tz": "+0200"
+      },
+      "serie": "Padre de familia",
+      "episodio_num": "S08E05",
+      "episodio_titulo": "Hannah Banana",
+      "descripcion": "Stewie y Hannah Montana empiezan a hacer amistad tras que éste la visitase en unos ensayos, pero allí descubre un sorprendente secreto sobre la cantante. Por otro lado, Chris intenta demostrar a su familia que el mono malvado existe.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "23:24",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531232422",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "23:27",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531232730",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - ¡Maldito lunes!",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "23:27",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531232730",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "23:38",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531233836",
+        "tz": "+0200"
+      },
+      "serie": "Robot Chicken",
+      "episodio_num": "S02E20",
+      "episodio_titulo": "El libro de Corinne",
+      "descripcion": "Nuevo programa: “Vince Vaughn se lo hace a tu madre”. Jasper el fantasma cabrón. Y rematando: ¡el telemaratón final de Robot Chicken!",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "23:38",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531233836",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-05-31",
+        "hora": "23:49",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531234951",
+        "tz": "+0200"
+      },
+      "serie": "Robot Chicken",
+      "episodio_num": "S04E07",
+      "episodio_titulo": "Con amor, Maurice",
+      "descripcion": "Willy Wonka descubre que los Oompa Loompas han estado robándole. Roger Rabbit y O.J. Simpson se asocian para matar a sus respectivas mujeres.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-05-31",
+        "hora": "23:49",
+        "dia_semana": "Sunday",
+        "timestamp": "20260531234951",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
         "hora": "09:04",
         "dia_semana": "Monday",
-        "timestamp": "20260601090446",
+        "timestamp": "20260601090457",
         "tz": "+0200"
       },
       "serie": "Robot Chicken",
-      "episodio_num": "S01E15",
-      "episodio_titulo": "Caricaturas",
-      "descripcion": "KITT se va de marcha con los aparcacoches de “Todo en un día”, las gemelas Olsen logran las hazañas más increíbles una vez cumplen los dieciocho.",
+      "episodio_num": "S02E19",
+      "episodio_titulo": "Donkey Punch",
+      "descripcion": "Mr. T une fuerzas con los Foo Fighters.",
       "categorias": [
         "Series",
         "Animación",
@@ -1516,19 +1570,19 @@
         "fecha": "2026-06-01",
         "hora": "09:04",
         "dia_semana": "Monday",
-        "timestamp": "20260601090446",
+        "timestamp": "20260601090457",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "09:28",
+        "hora": "09:29",
         "dia_semana": "Monday",
-        "timestamp": "20260601092807",
+        "timestamp": "20260601092941",
         "tz": "+0200"
       },
       "serie": "Doraemon, el gato cósmico",
-      "episodio_num": "S01E03",
-      "episodio_titulo": "El interruptor del despotismo",
+      "episodio_num": "S01E05",
+      "episodio_titulo": "El pase prodigioso",
       "descripcion": null,
       "categorias": [
         "Series",
@@ -1545,16 +1599,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "09:28",
+        "hora": "09:29",
         "dia_semana": "Monday",
-        "timestamp": "20260601092807",
+        "timestamp": "20260601092941",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "09:53",
+        "hora": "09:55",
         "dia_semana": "Monday",
-        "timestamp": "20260601095322",
+        "timestamp": "20260601095526",
         "tz": "+0200"
       },
       "serie": "Doraemon, el gato cósmico",
@@ -1576,1154 +1630,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "09:53",
+        "hora": "09:55",
         "dia_semana": "Monday",
-        "timestamp": "20260601095322",
+        "timestamp": "20260601095526",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "09:57",
+        "hora": "09:59",
         "dia_semana": "Monday",
-        "timestamp": "20260601095750",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Blanca Navidad",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "09:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601095750",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "10:21",
-        "dia_semana": "Monday",
-        "timestamp": "20260601102111",
-        "tz": "+0200"
-      },
-      "serie": "Shin Chan",
-      "episodio_num": "S00E348",
-      "episodio_titulo": "09x348 (By Antonio2587)",
-      "descripcion": null,
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "10:21",
-        "dia_semana": "Monday",
-        "timestamp": "20260601102111",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "10:39",
-        "dia_semana": "Monday",
-        "timestamp": "20260601103912",
-        "tz": "+0200"
-      },
-      "serie": "Shin Chan",
-      "episodio_num": "S00E371",
-      "episodio_titulo": "09x371 (By Antonio2587)",
-      "descripcion": null,
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "10:39",
-        "dia_semana": "Monday",
-        "timestamp": "20260601103912",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "10:46",
-        "dia_semana": "Monday",
-        "timestamp": "20260601104626",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Balón de Platino",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "10:46",
-        "dia_semana": "Monday",
-        "timestamp": "20260601104626",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:04",
-        "dia_semana": "Monday",
-        "timestamp": "20260601110432",
-        "tz": "+0200"
-      },
-      "serie": "El show de Garfield",
-      "episodio_num": "S01E20",
-      "episodio_titulo": "Cantadores de villancicos / Desde el horno",
-      "descripcion": "Garfield, Odie y Nermal compiten por obtener el premio al mejor cantante de Navidad. Luego, Garfield cambia la receta del pastel de Odie, ¡y cobra vida!",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:04",
-        "dia_semana": "Monday",
-        "timestamp": "20260601110432",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:06",
-        "dia_semana": "Monday",
-        "timestamp": "20260601110638",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - El Getafe B es muy rápido",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:06",
-        "dia_semana": "Monday",
-        "timestamp": "20260601110638",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:17",
-        "dia_semana": "Monday",
-        "timestamp": "20260601111729",
-        "tz": "+0200"
-      },
-      "serie": "Agallas, el perro cobarde",
-      "episodio_num": "S01E02",
-      "episodio_titulo": "El estofado colonial de la abuela",
-      "descripcion": "Un astuto coyote prepara un \"Guiso Cajún de Abuelita\", pero le falta un ingrediente: una abuelita. Entonces se encuentra con Muriel, que se durmió, y con Coraje, que se encuentra dentro de la chaqueta de Muriel, el coyote la secuestra para el guiso, pero no se dio cuenta de que Coraje lo va a detener y, en una persecución divertida, Coraje luchará hasta rescatar a su dueña.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Ciencia Ficción",
-        "Comedia",
-        "Familiar",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:17",
-        "dia_semana": "Monday",
-        "timestamp": "20260601111729",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:31",
-        "dia_semana": "Monday",
-        "timestamp": "20260601113124",
-        "tz": "+0200"
-      },
-      "serie": "Agallas, el perro cobarde",
-      "episodio_num": "S02E01",
-      "episodio_titulo": "El árbol mágico de Quimismo",
-      "descripcion": "Un árbol con la capacidad de conceder deseos crece en la finca, pero Justo se pone celoso de toda la atención que recibe y decide cortarlo. Coraje debe entonces evitar que eso suceda.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Ciencia Ficción",
-        "Comedia",
-        "Familiar",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:31",
-        "dia_semana": "Monday",
-        "timestamp": "20260601113124",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:35",
-        "dia_semana": "Monday",
-        "timestamp": "20260601113557",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - ¡A la huelga!",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:35",
-        "dia_semana": "Monday",
-        "timestamp": "20260601113557",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:47",
-        "dia_semana": "Monday",
-        "timestamp": "20260601114700",
-        "tz": "+0200"
-      },
-      "serie": "Hora de aventuras",
-      "episodio_num": "S09E08",
-      "episodio_titulo": "Elementos Parte 7: Corazón de Héroe",
-      "descripcion": "After going to the Fire Kingdom, Finn becomes taken over by fire. LSP has to save him before he destroys the candy kingdom.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:47",
-        "dia_semana": "Monday",
-        "timestamp": "20260601114700",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "11:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601115742",
-        "tz": "+0200"
-      },
-      "serie": "Hora de aventuras",
-      "episodio_num": "S01E04",
-      "episodio_titulo": "Trompi",
-      "descripcion": "Tronquitos se une a Finn y a Jake en una aventura a través del Bosque Negro para buscar la legendaria Manzana de la Gema de Cristal que quiere Tronquitos, pero a Finn lo retrasa muchas veces, ella creyendo que no es nada peligroso pasar por allí.\n\n      ",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "11:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601115742",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "12:13",
-        "dia_semana": "Monday",
-        "timestamp": "20260601121350",
-        "tz": "+0200"
-      },
-      "serie": "Hora de aventuras",
-      "episodio_num": "S08E05",
-      "episodio_titulo": "Soy Una Espada",
-      "descripcion": "Finn loses his sword and tries to retrieve it from a mysterious bandit.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "12:13",
-        "dia_semana": "Monday",
-        "timestamp": "20260601121350",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "12:20",
-        "dia_semana": "Monday",
-        "timestamp": "20260601122050",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Messi lesionado",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "12:20",
-        "dia_semana": "Monday",
-        "timestamp": "20260601122050",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "12:47",
-        "dia_semana": "Monday",
-        "timestamp": "20260601124721",
-        "tz": "+0200"
-      },
-      "serie": "Fan Boy y Chum Chum",
-      "episodio_num": "S02E03",
-      "episodio_titulo": "Episodio 3",
-      "descripcion": "Fanboy and Chum Chum get locked in school on the last day before summer vacation! Will they escape with their minds intact before they miss the entire summer?",
-      "categorias": [
-        "Series",
-        "Action & Adventure",
-        "Animación",
-        "Comedia",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "12:47",
-        "dia_semana": "Monday",
-        "timestamp": "20260601124721",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "12:51",
-        "dia_semana": "Monday",
-        "timestamp": "20260601125123",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - El dinero no lo puede comprar todo",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "12:51",
-        "dia_semana": "Monday",
-        "timestamp": "20260601125123",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "13:17",
-        "dia_semana": "Monday",
-        "timestamp": "20260601131713",
-        "tz": "+0200"
-      },
-      "serie": "Bob Esponja",
-      "episodio_num": "S02E13",
-      "episodio_titulo": "Los Colorburguers",
-      "descripcion": "El Crustáceo Crujiente no ha tenido clientes en semanas, por lo que Bob Esponja tiene una idea, pero Don Cangrejo y Calamardo se ríen de la idea. Así que Bob Esponja abre su propio restaurante y se convierte en un gran éxito en Fondo de Bikini.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "13:17",
-        "dia_semana": "Monday",
-        "timestamp": "20260601131713",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "13:43",
-        "dia_semana": "Monday",
-        "timestamp": "20260601134326",
-        "tz": "+0200"
-      },
-      "serie": "Bob Esponja",
-      "episodio_num": "S03E07",
-      "episodio_titulo": "La Cangreburger asquerosa",
-      "descripcion": "El señor Cangrejo tiene que poner en forma el Crustáceo Crujiente para pasar la inspección de Sanidad.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "13:43",
-        "dia_semana": "Monday",
-        "timestamp": "20260601134326",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "13:46",
-        "dia_semana": "Monday",
-        "timestamp": "20260601134634",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Garganta profunda",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "13:46",
-        "dia_semana": "Monday",
-        "timestamp": "20260601134634",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "13:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601135736",
-        "tz": "+0200"
-      },
-      "serie": "Tito Yayo",
-      "episodio_num": "S01E43",
-      "episodio_titulo": "El día del perro",
-      "descripcion": "Un padre se niega a comprarle un cachorro a su hija, por lo que Tito Yayo intenta enseñarle responsabilidad a la niña convirtiéndose en un perro.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "13:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601135736",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "14:09",
-        "dia_semana": "Monday",
-        "timestamp": "20260601140937",
-        "tz": "+0200"
-      },
-      "serie": "Tito Yayo",
-      "episodio_num": "S03E23",
-      "episodio_titulo": "Miedo a volar",
-      "descripcion": "Tito Yayo convierte a un niño en mosca para que supere su miedo a volar.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "14:09",
-        "dia_semana": "Monday",
-        "timestamp": "20260601140937",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "14:12",
-        "dia_semana": "Monday",
-        "timestamp": "20260601141257",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - El guapo de Cristiano",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "14:12",
-        "dia_semana": "Monday",
-        "timestamp": "20260601141257",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "14:38",
-        "dia_semana": "Monday",
-        "timestamp": "20260601143800",
-        "tz": "+0200"
-      },
-      "serie": "Los Simpson",
-      "episodio_num": "S03E05",
-      "episodio_titulo": "Definición de Homer",
-      "descripcion": "De casualidad, Homer salva a la ciudad de una fusión nuclear y es tomado por un héroe.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "14:38",
-        "dia_semana": "Monday",
-        "timestamp": "20260601143800",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "15:00",
-        "dia_semana": "Monday",
-        "timestamp": "20260601150058",
-        "tz": "+0200"
-      },
-      "serie": "Los Simpson",
-      "episodio_num": "S05E21",
-      "episodio_titulo": "El amante de Madame Bouvier",
-      "descripcion": "Homer y Marge piensan que la madre de ella y el padre de él parecen muy solitarios, por lo que intentan que pasen tiempo juntos. El abuelo acaba enamorándose de la madre de Marge, pero Burns le hará la competencia.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "15:00",
-        "dia_semana": "Monday",
-        "timestamp": "20260601150058",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "15:03",
-        "dia_semana": "Monday",
-        "timestamp": "20260601150319",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Mou ficha a Cesc",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "15:03",
-        "dia_semana": "Monday",
-        "timestamp": "20260601150319",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "15:28",
-        "dia_semana": "Monday",
-        "timestamp": "20260601152832",
-        "tz": "+0200"
-      },
-      "serie": "Malcolm",
-      "episodio_num": "S02E22",
-      "episodio_titulo": "La mini moto",
-      "descripcion": "Los muchachos tratan de convencer a Lois para que les de una bicicleta. Mientras, Hal asiste a un fin de semana de padres e hijos en la Academia Marlin.",
-      "categorias": [
-        "Series",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "15:28",
-        "dia_semana": "Monday",
-        "timestamp": "20260601152832",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "15:51",
-        "dia_semana": "Monday",
-        "timestamp": "20260601155108",
-        "tz": "+0200"
-      },
-      "serie": "Malcolm",
-      "episodio_num": "S05E07",
-      "episodio_titulo": "Árboles de Navidad",
-      "descripcion": "Al acercarse la Navidad, un bajón de trabajo anima a Hal a ganar algo de dinero vendiendo avetos. Por otro lado, las tranquilas fiestas de Francis y Piama se terminan de golpe cuando los parientes alemanes de Otto se presentan en el rancho.",
-      "categorias": [
-        "Series",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "15:51",
-        "dia_semana": "Monday",
-        "timestamp": "20260601155108",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "15:54",
-        "dia_semana": "Monday",
-        "timestamp": "20260601155438",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Escándalo en el Camp Nou",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "15:54",
-        "dia_semana": "Monday",
-        "timestamp": "20260601155438",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "16:20",
-        "dia_semana": "Monday",
-        "timestamp": "20260601162004",
-        "tz": "+0200"
-      },
-      "serie": "Los pingüinos de Madagascar",
-      "episodio_num": "S01E12",
-      "episodio_titulo": "Lo oculto",
-      "descripcion": "Skipper y los pingüinos están entrenando sus instinto, y Marlene interrumpe diciendo que va a visitar a los nuevos vecinos. Por desgracia, succionan a Mort, y van a su rescate. Al final, resultaron ser camaleones y Kowalski aprendió a seguir su instinto.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "16:20",
-        "dia_semana": "Monday",
-        "timestamp": "20260601162004",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "16:45",
-        "dia_semana": "Monday",
-        "timestamp": "20260601164526",
-        "tz": "+0200"
-      },
-      "serie": "Los pingüinos de Madagascar",
-      "episodio_num": "S02E08",
-      "episodio_titulo": "La Nueva Campaña",
-      "descripcion": "El zoológico quiere exponer fotos de sus animales en toda Nueva York, pero cuando fotografían a los lémures, los pingüinos aparecen detrás de esa foto, todos armados, ¡las personas sabrán todo! Ahora esa evidencia tendrá que borrarse. Lo intentan desde la computadora de Jim (el fotógrafo), pero fallan. Intentan borrarlo en más sitios, pero fallan, hasta intentan detener el reparto de imágenes, pero fallan. Piensan rendirse y abandonarlo todo, pero en el momento de mostrar la foto, se dieron cuenta que la arruinaron con pintura. Se salvaron.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "16:45",
-        "dia_semana": "Monday",
-        "timestamp": "20260601164526",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "16:48",
-        "dia_semana": "Monday",
-        "timestamp": "20260601164826",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Plan secreto",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "16:48",
-        "dia_semana": "Monday",
-        "timestamp": "20260601164826",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "17:11",
-        "dia_semana": "Monday",
-        "timestamp": "20260601171124",
-        "tz": "+0200"
-      },
-      "serie": "Las macabras aventuras de Billy y Mandy",
-      "episodio_num": "S06E04",
-      "episodio_titulo": "El amor que no se atreve a pronunciar su nombre / Coronel Queso",
-      "descripcion": "Billy se enamora de una niña llamada Blandy, pero ella erróneamente se enamora de Calavera. / Calavera intenta matar a un anciano para que no revele su secreto.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "17:11",
-        "dia_semana": "Monday",
-        "timestamp": "20260601171124",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "17:36",
-        "dia_semana": "Monday",
-        "timestamp": "20260601173607",
-        "tz": "+0200"
-      },
-      "serie": "Las macabras aventuras de Billy y Mandy",
-      "episodio_num": "S03E27",
-      "episodio_titulo": "¿Qué fue de Billy Comosellame? / Cuestión de pus",
-      "descripcion": "Cuando Billy está despedido por no hacer quehaceres domésticos, Mandy y Puro Hueso lo reemplazan con un extraño chico llamado Bobby. / Cuando a Valente le sale mucho sarpullido en la cara, una vidente le dice que los huesos de Puro Hueso son la cura.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Kids"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "17:36",
-        "dia_semana": "Monday",
-        "timestamp": "20260601173607",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "17:39",
-        "dia_semana": "Monday",
-        "timestamp": "20260601173916",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - El mote de Mourinho",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "17:39",
-        "dia_semana": "Monday",
-        "timestamp": "20260601173916",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:03",
-        "dia_semana": "Monday",
-        "timestamp": "20260601180320",
-        "tz": "+0200"
-      },
-      "serie": "Campamento Lazlo",
-      "episodio_num": "S16E01",
-      "episodio_titulo": "c16-1",
-      "descripcion": null,
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:03",
-        "dia_semana": "Monday",
-        "timestamp": "20260601180320",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:06",
-        "dia_semana": "Monday",
-        "timestamp": "20260601180646",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Ahí llega el director técnico",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:06",
-        "dia_semana": "Monday",
-        "timestamp": "20260601180646",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:18",
-        "dia_semana": "Monday",
-        "timestamp": "20260601181847",
-        "tz": "+0200"
-      },
-      "serie": "El asombroso mundo de Gumball",
-      "episodio_num": "S01E24",
-      "episodio_titulo": "El Genio",
-      "descripcion": "Cuando Darwin es llevado a un instituto para genios Gumball trata de volverse inteligente con el fin de poder reunirse con él, así que decide ir a la biblioteca a entrenar a su cerebro. Mientras tanto Nicole y Richard enfrentan la posibilidad de nunca más volver a ver a Darwin, dejando a Rocky, el conserje escolar, vivir con ellos.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:18",
-        "dia_semana": "Monday",
-        "timestamp": "20260601181847",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:30",
-        "dia_semana": "Monday",
-        "timestamp": "20260601183022",
-        "tz": "+0200"
-      },
-      "serie": "El asombroso mundo de Gumball",
-      "episodio_num": "S02E21",
-      "episodio_titulo": "El Pony",
-      "descripcion": "Gumball and Darwin race home to spend quality time with Anais, but every likely obstacle gets in the way.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:30",
-        "dia_semana": "Monday",
-        "timestamp": "20260601183022",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:43",
-        "dia_semana": "Monday",
-        "timestamp": "20260601184300",
-        "tz": "+0200"
-      },
-      "serie": "El asombroso mundo de Gumball",
-      "episodio_num": "S06E09",
-      "episodio_titulo": "La Fe",
-      "descripcion": "Alan ha perdido la fe en la humanidad y convierte el mundo en blanco y negro. Gumball debe superar su odio hacia Alan para recuperar el color cantando.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia",
-        "Familia",
-        "Sci-Fi & Fantasy"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:43",
-        "dia_semana": "Monday",
-        "timestamp": "20260601184300",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:46",
-        "dia_semana": "Monday",
-        "timestamp": "20260601184606",
-        "tz": "+0200"
-      },
-      "serie": "MarcaToons",
-      "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - A todo Gas",
-      "descripcion": null,
-      "categorias": [
-        "Series"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:46",
-        "dia_semana": "Monday",
-        "timestamp": "20260601184606",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "18:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601185712",
-        "tz": "+0200"
-      },
-      "serie": "Clarence",
-      "episodio_num": "S01E22",
-      "episodio_titulo": "La fiesta de pijamas de Belson",
-      "descripcion": "Belson hace una pijamada en su casa y trata de hacerles bromas a los que invitó.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "18:57",
-        "dia_semana": "Monday",
-        "timestamp": "20260601185712",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "19:08",
-        "dia_semana": "Monday",
-        "timestamp": "20260601190817",
-        "tz": "+0200"
-      },
-      "serie": "Clarence",
-      "episodio_num": "S01E31",
-      "episodio_titulo": "Sombrero de Tortuga",
-      "descripcion": "Accidentalmente, la Señorita Baker le asigna a la clase hacer una tarea sobre \"Sombreros de Tortuga\", dando dificultades para los estudiantes para hacer el proyecto.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "19:08",
-        "dia_semana": "Monday",
-        "timestamp": "20260601190817",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "19:21",
-        "dia_semana": "Monday",
-        "timestamp": "20260601192117",
-        "tz": "+0200"
-      },
-      "serie": "Clarence",
-      "episodio_num": "S01E30",
-      "episodio_titulo": "Suspendidos",
-      "descripcion": "Clarence y Sumo quedan suspendidos luego de hacerle una broma a la Señorita Baker.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "19:21",
-        "dia_semana": "Monday",
-        "timestamp": "20260601192117",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "19:23",
-        "dia_semana": "Monday",
-        "timestamp": "20260601192349",
+        "timestamp": "20260601095910",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
@@ -2739,30 +1655,26 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "19:23",
+        "hora": "09:59",
         "dia_semana": "Monday",
-        "timestamp": "20260601192349",
+        "timestamp": "20260601095910",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "19:45",
+        "hora": "10:22",
         "dia_semana": "Monday",
-        "timestamp": "20260601194555",
+        "timestamp": "20260601102231",
         "tz": "+0200"
       },
-      "serie": "Gravity Falls",
-      "episodio_num": "S02E05",
-      "episodio_titulo": "Soos y la chica de verdad",
-      "descripcion": "Después de que Soos le promete a su abuela encontrar una cita para la boda de su primo Reggie, Dipper y Mabel se ofrecen a ayudarlo . Con el tiempo, compra un videojuego que es un simulador de citas para ayudarle a hablar con las chicas. Sin embargo, el personaje del juego se obsesiona con Soos.",
+      "serie": "Shin Chan",
+      "episodio_num": "S00E13",
+      "episodio_titulo": "Voy al cine",
+      "descripcion": null,
       "categorias": [
         "Series",
-        "Action & Adventure",
         "Animación",
-        "Comedia",
-        "Familia",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Comedia"
       ]
     },
     {
@@ -2770,30 +1682,26 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "19:45",
+        "hora": "10:22",
         "dia_semana": "Monday",
-        "timestamp": "20260601194555",
+        "timestamp": "20260601102231",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "20:10",
+        "hora": "10:44",
         "dia_semana": "Monday",
-        "timestamp": "20260601201019",
+        "timestamp": "20260601104458",
         "tz": "+0200"
       },
-      "serie": "Gravity Falls",
-      "episodio_num": "S01E09",
-      "episodio_titulo": "El cerdo del viajero en el tiempo",
-      "descripcion": "El deseo de Dipper se hace realidad cuando se roba una máquina del tiempo del viajero en el tiempo para deshacer un error. Mabel lo acompaña para seguir ganando su cerdo, Pato, hasta que Dipper finalmente deshace su error, Mabel pierde su cerdo ante su archienemiga, Pacifica Noroeste.",
+      "serie": "Shin Chan",
+      "episodio_num": "S00E273",
+      "episodio_titulo": "07x273 (By LeCHuSo)",
+      "descripcion": null,
       "categorias": [
         "Series",
-        "Action & Adventure",
         "Animación",
-        "Comedia",
-        "Familia",
-        "Misterio",
-        "Sci-Fi & Fantasy"
+        "Comedia"
       ]
     },
     {
@@ -2801,21 +1709,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "20:10",
+        "hora": "10:44",
         "dia_semana": "Monday",
-        "timestamp": "20260601201019",
+        "timestamp": "20260601104458",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "20:13",
+        "hora": "10:52",
         "dia_semana": "Monday",
-        "timestamp": "20260601201307",
+        "timestamp": "20260601105201",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Médicos iluminados",
+      "episodio_titulo": "MarcaToons - El dinero no lo puede comprar todo",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -2826,21 +1734,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "20:13",
+        "hora": "10:52",
         "dia_semana": "Monday",
-        "timestamp": "20260601201307",
+        "timestamp": "20260601105201",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "20:37",
+        "hora": "11:10",
         "dia_semana": "Monday",
-        "timestamp": "20260601203751",
+        "timestamp": "20260601111012",
         "tz": "+0200"
       },
-      "serie": "Chowder",
-      "episodio_num": "S01E12",
-      "episodio_titulo": "Episodio 12",
+      "serie": "El show de Garfield",
+      "episodio_num": "S01E34",
+      "episodio_titulo": "Episodio 34",
       "descripcion": null,
       "categorias": [
         "Series",
@@ -2854,21 +1762,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "20:37",
+        "hora": "11:10",
         "dia_semana": "Monday",
-        "timestamp": "20260601203751",
+        "timestamp": "20260601111012",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "20:40",
+        "hora": "11:12",
         "dia_semana": "Monday",
-        "timestamp": "20260601204050",
+        "timestamp": "20260601111202",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Habla con mi abogado",
+      "episodio_titulo": "MarcaToons - CR7 por dos",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -2879,26 +1787,29 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "20:40",
+        "hora": "11:12",
         "dia_semana": "Monday",
-        "timestamp": "20260601204050",
+        "timestamp": "20260601111202",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "20:51",
+        "hora": "11:22",
         "dia_semana": "Monday",
-        "timestamp": "20260601205148",
+        "timestamp": "20260601112255",
         "tz": "+0200"
       },
-      "serie": "Historias corrientes",
-      "episodio_num": "S07E24",
-      "episodio_titulo": "El rey de California",
-      "descripcion": "Rigby gana una cama grande y tira su trampolín a la basura.",
+      "serie": "Agallas, el perro cobarde",
+      "episodio_num": "S02E17",
+      "episodio_titulo": "El río de la serpiente demoníaca",
+      "descripcion": "Los Bagge son invitados a un crucero gratis, pero todo es una trampa y deberán ayudar al capitán a capturar a una serpiente de mar que ama la ópera llamada Carmen.",
       "categorias": [
         "Series",
         "Animación",
-        "Comedia"
+        "Ciencia Ficción",
+        "Comedia",
+        "Familiar",
+        "Kids"
       ]
     },
     {
@@ -2906,26 +1817,29 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "20:51",
+        "hora": "11:22",
         "dia_semana": "Monday",
-        "timestamp": "20260601205148",
+        "timestamp": "20260601112255",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "21:02",
+        "hora": "11:36",
         "dia_semana": "Monday",
-        "timestamp": "20260601210212",
+        "timestamp": "20260601113634",
         "tz": "+0200"
       },
-      "serie": "Historias corrientes",
-      "episodio_num": "S08E26",
-      "episodio_titulo": "Anímate Pops",
-      "descripcion": "Los chicos quieren animar a Pops.",
+      "serie": "Agallas, el perro cobarde",
+      "episodio_num": "S04E15",
+      "episodio_titulo": "Muriel enmudecida",
+      "descripcion": "Muriel se cansa de que Justo no la escuche cuando habla, así que decide no volver a hablar. Viendo la situación, Coraje va a pedirle ayuda a Shirley, ésta hace un conjuro que destruirá la casa si Muriel no habla.",
       "categorias": [
         "Series",
         "Animación",
-        "Comedia"
+        "Ciencia Ficción",
+        "Comedia",
+        "Familiar",
+        "Kids"
       ]
     },
     {
@@ -2933,48 +1847,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "21:02",
+        "hora": "11:36",
         "dia_semana": "Monday",
-        "timestamp": "20260601210212",
+        "timestamp": "20260601113634",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "21:13",
+        "hora": "11:41",
         "dia_semana": "Monday",
-        "timestamp": "20260601211324",
-        "tz": "+0200"
-      },
-      "serie": "Historias corrientes",
-      "episodio_num": "S06E14",
-      "episodio_titulo": "Casados y arruinados",
-      "descripcion": "Musculitos y Starla quieren ganar un concurso para pagar su boda.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "21:13",
-        "dia_semana": "Monday",
-        "timestamp": "20260601211324",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "21:15",
-        "dia_semana": "Monday",
-        "timestamp": "20260601211556",
+        "timestamp": "20260601114136",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - La Roja en peligro",
+      "episodio_titulo": "MarcaToons - Özil habla español",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -2985,22 +1872,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "21:15",
+        "hora": "11:41",
         "dia_semana": "Monday",
-        "timestamp": "20260601211556",
+        "timestamp": "20260601114136",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "21:40",
+        "hora": "11:52",
         "dia_semana": "Monday",
-        "timestamp": "20260601214021",
+        "timestamp": "20260601115246",
         "tz": "+0200"
       },
-      "serie": "Futurama",
-      "episodio_num": "S02E06",
-      "episodio_titulo": "Brannigan vuelve a empezar",
-      "descripcion": "Zapp Brannigan es contratado por Planet Express y encabeza una rebelión.",
+      "serie": "Hora de aventuras",
+      "episodio_num": "S02E20",
+      "episodio_titulo": "Ven Conmigo",
+      "descripcion": "Jake Y Marceline le dan consejos a Finn para invitar a la Dulce Princesa a ir a la noche parejas con él; pero Jake y Marceline tienen puntos de vista del \"romance\" muy distintos.\n\n      ",
       "categorias": [
         "Series",
         "Animación",
@@ -3013,22 +1900,22 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "21:40",
+        "hora": "11:52",
         "dia_semana": "Monday",
-        "timestamp": "20260601214021",
+        "timestamp": "20260601115246",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "22:05",
+        "hora": "12:04",
         "dia_semana": "Monday",
-        "timestamp": "20260601220551",
+        "timestamp": "20260601120442",
         "tz": "+0200"
       },
-      "serie": "Futurama",
-      "episodio_num": "S05E04",
-      "episodio_titulo": "El sabor de la libertad",
-      "descripcion": "La raza de Zoidberg ataca y esclaviza a los humanos cuando Zoidberg es sentenciado a muerte por comerse una bandera de la Tierra durante el \"Día De La Libertad\".",
+      "serie": "Hora de aventuras",
+      "episodio_num": "S01E07",
+      "episodio_titulo": "Ricardio el corazón",
+      "descripcion": "La Dulce Princesa invita a Finn y a Jake a una fiesta por rescatarla del Rey Helado, pero cuando los dos llegan a la fiesta ven a Ricardio, un personaje con forma de corazón dando masajes. Finn empieza a sospechar que Ricardio le quiere hacer daño a la Dulce Princesa, sin embargo, la princesa solo piensa que esta celoso.\n\n      ",
       "categorias": [
         "Series",
         "Animación",
@@ -3041,21 +1928,49 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "22:05",
+        "hora": "12:04",
         "dia_semana": "Monday",
-        "timestamp": "20260601220551",
+        "timestamp": "20260601120442",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "22:11",
+        "hora": "12:20",
         "dia_semana": "Monday",
-        "timestamp": "20260601221129",
+        "timestamp": "20260601122036",
+        "tz": "+0200"
+      },
+      "serie": "Hora de aventuras",
+      "episodio_num": "S08E16",
+      "episodio_titulo": "Ruedas",
+      "descripcion": "Hora de conocer a la hija de Kim Kil Whan en persona.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "12:20",
+        "dia_semana": "Monday",
+        "timestamp": "20260601122036",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "12:27",
+        "dia_semana": "Monday",
+        "timestamp": "20260601122751",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Making of",
+      "episodio_titulo": "MarcaToons - Yo me lo guiso, yo me lo como",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -3066,26 +1981,29 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "22:11",
+        "hora": "12:27",
         "dia_semana": "Monday",
-        "timestamp": "20260601221129",
+        "timestamp": "20260601122751",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "22:38",
+        "hora": "12:54",
         "dia_semana": "Monday",
-        "timestamp": "20260601223829",
+        "timestamp": "20260601125405",
         "tz": "+0200"
       },
-      "serie": "South Park",
-      "episodio_num": "S02E06",
-      "episodio_titulo": "La rana mexicana del sur de Sri Lanka",
-      "descripcion": "Los chicos acuden a Jimbo y Ned para que les cuenten la historia sobre los comienzos de la guerra en Vietnam. Mientras, una productora convierte el programa de \"Jesús y sus Amigos\" en un gran \"Diario de Jesús\" para salvarlo de la baja audiencia.",
+      "serie": "Fan Boy y Chum Chum",
+      "episodio_num": "S01E14",
+      "episodio_titulo": "Episodio 14",
+      "descripcion": null,
       "categorias": [
         "Series",
+        "Action & Adventure",
         "Animación",
-        "Comedia"
+        "Comedia",
+        "Kids",
+        "Sci-Fi & Fantasy"
       ]
     },
     {
@@ -3093,48 +2011,21 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "22:38",
+        "hora": "12:54",
         "dia_semana": "Monday",
-        "timestamp": "20260601223829",
+        "timestamp": "20260601125405",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "23:02",
+        "hora": "12:58",
         "dia_semana": "Monday",
-        "timestamp": "20260601230235",
-        "tz": "+0200"
-      },
-      "serie": "South Park",
-      "episodio_num": "S08E08",
-      "episodio_titulo": "Ducha vaginal o zurullo",
-      "descripcion": "Luego de que PETA protestara contra el uso de una vaca como mascota escolar, los alumnos tienen que elegir a una nueva. A Kyle se le ocurre (como broma) postular a un \"gran lavado vaginal\" y a Cartman se le ocurre un \"sandwich de mojón\". Mientras tanto, Stan se niega a votar.",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-01",
-        "hora": "23:02",
-        "dia_semana": "Monday",
-        "timestamp": "20260601230235",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-01",
-        "hora": "23:05",
-        "dia_semana": "Monday",
-        "timestamp": "20260601230550",
+        "timestamp": "20260601125824",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - La verdadera razón de la marcha de Valdano",
+      "episodio_titulo": "MarcaToons - Mou ficha a Cesc",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -3145,25 +2036,269 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "23:05",
+        "hora": "12:58",
         "dia_semana": "Monday",
-        "timestamp": "20260601230550",
+        "timestamp": "20260601125824",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "23:28",
+        "hora": "13:24",
         "dia_semana": "Monday",
-        "timestamp": "20260601232818",
+        "timestamp": "20260601132416",
         "tz": "+0200"
       },
-      "serie": "Padre de familia",
-      "episodio_num": "S05E07",
-      "episodio_titulo": "Cáncer de tías",
-      "descripcion": "Stewie se reencuentra con Olivia reanudando su amistad, pero su relación acaba en un matrimonio lleno de resentimientos. Por otra parte, Peter decide crear una película femenina tras inspirarse en una película del mismo genero.",
+      "serie": "Bob Esponja",
+      "episodio_num": "S02E03",
+      "episodio_titulo": "Tienes los cordones desatados",
+      "descripcion": "Bob Esponja olvida cómo atarse los zapatos, por lo que debe volver a aprender a hacerlo sin nadie más que pueda ayudarlo.",
       "categorias": [
         "Series",
         "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "13:24",
+        "dia_semana": "Monday",
+        "timestamp": "20260601132416",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "13:50",
+        "dia_semana": "Monday",
+        "timestamp": "20260601135014",
+        "tz": "+0200"
+      },
+      "serie": "Bob Esponja",
+      "episodio_num": "S03E17",
+      "episodio_titulo": "Los pintores",
+      "descripcion": "Bob Esponja y Patricio tienen que pintar la sala de estar del señor Cangrejo sin que caiga ni una gota de pintura fuera de las paredes.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "13:50",
+        "dia_semana": "Monday",
+        "timestamp": "20260601135014",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "13:53",
+        "dia_semana": "Monday",
+        "timestamp": "20260601135321",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Blanca Navidad",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "13:53",
+        "dia_semana": "Monday",
+        "timestamp": "20260601135321",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "14:04",
+        "dia_semana": "Monday",
+        "timestamp": "20260601140432",
+        "tz": "+0200"
+      },
+      "serie": "Tito Yayo",
+      "episodio_num": "S03E04",
+      "episodio_titulo": "Tito Pascual",
+      "descripcion": "A Tito Yayo le toca hacer de Conejo de Pascua y repartir huevos por el mundo.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "14:04",
+        "dia_semana": "Monday",
+        "timestamp": "20260601140432",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "14:16",
+        "dia_semana": "Monday",
+        "timestamp": "20260601141605",
+        "tz": "+0200"
+      },
+      "serie": "Tito Yayo",
+      "episodio_num": "S04E15",
+      "episodio_titulo": "El Hada de los Dientes",
+      "descripcion": "Tito Yayo y Mr. Gus tienen que rescatar a Pizza Steve del Hada de los Dientes.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "14:16",
+        "dia_semana": "Monday",
+        "timestamp": "20260601141605",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "14:19",
+        "dia_semana": "Monday",
+        "timestamp": "20260601141915",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Hola, guapo",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "14:19",
+        "dia_semana": "Monday",
+        "timestamp": "20260601141915",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "14:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601144419",
+        "tz": "+0200"
+      },
+      "serie": "Los Simpson",
+      "episodio_num": "S03E06",
+      "episodio_titulo": "De tal palo, tal payaso",
+      "descripcion": "Durante la cena que Krusty tenía pendiente con Bart desde que le sacó de la carcel al demostrar la culpabilidad del Actor Secundario Bob, los Simpson descubren que Krusty no es tan feliz como parece. El motivo es que su padre, un rabino judío, no le habla desde que Krusty es payaso. Bart y Lisa intentan convencer al padre de Krusty para que le perdone.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "14:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601144419",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "15:07",
+        "dia_semana": "Monday",
+        "timestamp": "20260601150710",
+        "tz": "+0200"
+      },
+      "serie": "Los Simpson",
+      "episodio_num": "S05E20",
+      "episodio_titulo": "El niño que sabía demasiado",
+      "descripcion": "Bart se va de clase con la excusa de que tiene que ir al dentista. Skinner sospecha y le sigue. Bart, que se da cuenta, se esconde dentro del coche del sobrino del alcalde, Freddy Quimby, que se dirige a una fiesta. Allí, Bart será testigo de una presunta paliza de Freddy a un camarero que acabará en los tribunales, donde a Bart le asalta una gran duda: Si declara, Skinner descubrirá que hizo novillos. Mientras, Homer es elegido jurado para el juicio y se dispone a sacar partido de eso.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "15:07",
+        "dia_semana": "Monday",
+        "timestamp": "20260601150710",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "15:09",
+        "dia_semana": "Monday",
+        "timestamp": "20260601150926",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Mou",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "15:09",
+        "dia_semana": "Monday",
+        "timestamp": "20260601150926",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "15:34",
+        "dia_semana": "Monday",
+        "timestamp": "20260601153433",
+        "tz": "+0200"
+      },
+      "serie": "Malcolm",
+      "episodio_num": "S04E04",
+      "episodio_titulo": "Chica boba",
+      "descripcion": "Malcolm se siente atraído por una chica, Allison, y descubre que nunca la conseguirá porque es demasiado intelectual para ella. Por eso pide ayuda a Reese, y acaba consiguiendo lo que quería: comportarse como un perfecto idiota para llamar la atención de la chica.",
+      "categorias": [
+        "Series",
         "Comedia"
       ]
     },
@@ -3172,25 +2307,24 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "23:28",
+        "hora": "15:34",
         "dia_semana": "Monday",
-        "timestamp": "20260601232818",
+        "timestamp": "20260601153433",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "23:52",
+        "hora": "15:57",
         "dia_semana": "Monday",
-        "timestamp": "20260601235204",
+        "timestamp": "20260601155721",
         "tz": "+0200"
       },
-      "serie": "Padre de familia",
-      "episodio_num": "S07E02",
-      "episodio_titulo": "Sueño con Jesucristo",
-      "descripcion": "Peter consigue una copia de su canción favorita: Surfin' Bird, canción que empieza a enloquecer y molestar a toda su familia, Brian y Stewie consiguen destruirlo para disgusto de Peter. Cuando llega a una tienda de discos a comprar otra copia, descubre a Jesucristo de incógnito como dependiente del local.",
+      "serie": "Malcolm",
+      "episodio_num": "S07E19",
+      "episodio_titulo": "Stevie en el hospital",
+      "descripcion": "Stevie acaba de salir de cirugía y Malcolm quiere ir a visitarlo, pero siempre pierde el tiempo con cualquier cosa, hasta que Hal platica con él y decide ir a verlo directamente. Hal va al lago con Jamie a jugar con su lancha a control remoto, pero sin querer se sienta en la banca de un niño, y éste tiene una mejor lancha que Hal, por lo que hunde el barquito de Hal varias veces, hasta que él se harta y busca una manera de derrotar al niño, Malcolm le ayuda y al final derrota al niño, pero este se deprime porque el barco se lo había dejado su abuelo antes de morir.",
       "categorias": [
         "Series",
-        "Animación",
         "Comedia"
       ]
     },
@@ -3199,16 +2333,16 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "23:52",
+        "hora": "15:57",
         "dia_semana": "Monday",
-        "timestamp": "20260601235204",
+        "timestamp": "20260601155721",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-01",
-        "hora": "23:55",
+        "hora": "16:00",
         "dia_semana": "Monday",
-        "timestamp": "20260601235506",
+        "timestamp": "20260601160042",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
@@ -3224,102 +2358,79 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-01",
-        "hora": "23:55",
+        "hora": "16:00",
         "dia_semana": "Monday",
-        "timestamp": "20260601235506",
+        "timestamp": "20260601160042",
         "tz": "+0200"
       },
       "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:06",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602000629",
+        "fecha": "2026-06-01",
+        "hora": "16:26",
+        "dia_semana": "Monday",
+        "timestamp": "20260601162621",
         "tz": "+0200"
       },
-      "serie": "Robot Chicken",
-      "episodio_num": "S04E04",
-      "episodio_titulo": "En una fábrica de DVD's",
-      "descripcion": "Las claves para matar a un hombre lobo se mezclan con una escena que los creadores imaginan que queda eliminada de Daredevil y una cita de Hannah Montana con la muerte.",
+      "serie": "Los pingüinos de Madagascar",
+      "episodio_num": "S03E04",
+      "episodio_titulo": "Acción y Reacción",
+      "descripcion": "Despues de derrotar a Hans en un laboratorio de armas a Skipper le cae un líquido que hace que su cuerpo se expanda como un globo cuando se altera mucho, entonces Skipper no podrá luchar más.",
       "categorias": [
         "Series",
         "Animación",
-        "Comedia"
+        "Comedia",
+        "Familia",
+        "Kids"
       ]
     },
     {
       "canal_id": "C1.145.ersatztv.org",
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
-        "fecha": "2026-06-02",
-        "hora": "00:06",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602000629",
+        "fecha": "2026-06-01",
+        "hora": "16:26",
+        "dia_semana": "Monday",
+        "timestamp": "20260601162621",
         "tz": "+0200"
       },
       "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:17",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602001703",
+        "fecha": "2026-06-01",
+        "hora": "16:51",
+        "dia_semana": "Monday",
+        "timestamp": "20260601165138",
         "tz": "+0200"
       },
-      "serie": "Robot Chicken",
-      "episodio_num": "S02E13",
-      "episodio_titulo": "Ejército del metal",
-      "descripcion": "Rom caballero del espacio se enfrenta a su némesis. Y en plena guerra Hulk Hogan huye de un campo de concentración en ”Los héroes de Hogan”.",
+      "serie": "Los pingüinos de Madagascar",
+      "episodio_num": "S03E11",
+      "episodio_titulo": "Lunacornios Sobre Hielo",
+      "descripcion": "Skipper decide premiar a Cabo por su valiente esfuerzo en las misiones y lo llevan a ver \"Lunacornios sobre Hielo\" junto con otros dos fans de los lunacornios, ¡Bing y Roy!",
       "categorias": [
         "Series",
         "Animación",
-        "Comedia"
+        "Comedia",
+        "Familia",
+        "Kids"
       ]
     },
     {
       "canal_id": "C1.145.ersatztv.org",
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
-        "fecha": "2026-06-02",
-        "hora": "00:17",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602001703",
+        "fecha": "2026-06-01",
+        "hora": "16:51",
+        "dia_semana": "Monday",
+        "timestamp": "20260601165138",
         "tz": "+0200"
       },
       "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:29",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602002918",
-        "tz": "+0200"
-      },
-      "serie": "Robot Chicken",
-      "episodio_num": "S19E87",
-      "episodio_titulo": "Robot Chicken #02x06",
-      "descripcion": "1987",
-      "categorias": [
-        "Series",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "canal_id": "C1.145.ersatztv.org",
-      "canal_nombre": "1 WATCHTIME",
-      "inicio": {
-        "fecha": "2026-06-02",
-        "hora": "00:29",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602002918",
-        "tz": "+0200"
-      },
-      "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:32",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602003227",
+        "fecha": "2026-06-01",
+        "hora": "16:54",
+        "dia_semana": "Monday",
+        "timestamp": "20260601165413",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - Casillas llama a sus amigos",
+      "episodio_titulo": "MarcaToons - ¿Por qué？",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -3329,27 +2440,191 @@
       "canal_id": "C1.145.ersatztv.org",
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
-        "fecha": "2026-06-02",
-        "hora": "00:32",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602003227",
+        "fecha": "2026-06-01",
+        "hora": "16:54",
+        "dia_semana": "Monday",
+        "timestamp": "20260601165413",
         "tz": "+0200"
       },
       "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:42",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602004256",
+        "fecha": "2026-06-01",
+        "hora": "17:17",
+        "dia_semana": "Monday",
+        "timestamp": "20260601171706",
         "tz": "+0200"
       },
-      "serie": "Smiling Friends",
+      "serie": "Las macabras aventuras de Billy y Mandy",
+      "episodio_num": "S06E03",
+      "episodio_titulo": "El guardian de la muerte",
+      "descripcion": "Cuando Harold se muda, la Corte del Sub-Mundo va a decidir con quien se queda Calavera, ¿Con el Idiota de Billy? o ¿Con la Cruel Mandy?",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "17:17",
+        "dia_semana": "Monday",
+        "timestamp": "20260601171706",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "17:41",
+        "dia_semana": "Monday",
+        "timestamp": "20260601174132",
+        "tz": "+0200"
+      },
+      "serie": "Las macabras aventuras de Billy y Mandy",
+      "episodio_num": "S04E19",
+      "episodio_titulo": "Pantalones de carreras / Guadaña 2.0",
+      "descripcion": "Billy le pide ayuda a Orquito para pasar la prueba de Educación Física de la escuela. / Puro Hueso cambia su anticuada hoz por una nueva 2.0.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "17:41",
+        "dia_semana": "Monday",
+        "timestamp": "20260601174132",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "17:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601174419",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Campeones ¡Oe oe oe!",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "17:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601174419",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "18:08",
+        "dia_semana": "Monday",
+        "timestamp": "20260601180812",
+        "tz": "+0200"
+      },
+      "serie": "Campamento Lazlo",
+      "episodio_num": "S09E01",
+      "episodio_titulo": "c9-1",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "18:08",
+        "dia_semana": "Monday",
+        "timestamp": "20260601180812",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "18:11",
+        "dia_semana": "Monday",
+        "timestamp": "20260601181110",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Melchor, Gaspar y Laporta",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "18:11",
+        "dia_semana": "Monday",
+        "timestamp": "20260601181110",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "18:23",
+        "dia_semana": "Monday",
+        "timestamp": "20260601182310",
+        "tz": "+0200"
+      },
+      "serie": "El asombroso mundo de Gumball",
+      "episodio_num": "S01E10",
+      "episodio_titulo": "El Dibujo",
+      "descripcion": "Después de ver una imagen que pintó Anais el director Brown asume que Anais encuentra a su familia disfuncional y es infeliz, por lo que comienza a inmiscuirse en su vida familiar. El director obliga a Gumball y a Darwin a quedarse con el Sr. Pequeño para calmar su \"ira destructiva\", a Nicole a dejar de trabajar y empezar a relajarse y a Richard a conseguir un empleo.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "18:23",
+        "dia_semana": "Monday",
+        "timestamp": "20260601182310",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "18:35",
+        "dia_semana": "Monday",
+        "timestamp": "20260601183505",
+        "tz": "+0200"
+      },
+      "serie": "El asombroso mundo de Gumball",
       "episodio_num": "S02E07",
-      "episodio_titulo": "La joya roja mágica",
-      "descripcion": "El Jefe y Pim luchan por sus vidas en un misterioso mundo llamado Spamtopia. Mientras tanto, Charlie se enfrenta a Allan por algo serio.",
+      "episodio_titulo": "El Teléfono",
+      "descripcion": "When Gumball and Darwin get their first cell phone, they foolishly give out their number to super-intense Ocho.",
       "categorias": [
         "Series",
         "Animación",
         "Comedia",
+        "Familia",
         "Sci-Fi & Fantasy"
       ]
     },
@@ -3357,27 +2632,28 @@
       "canal_id": "C1.145.ersatztv.org",
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
-        "fecha": "2026-06-02",
-        "hora": "00:42",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602004256",
+        "fecha": "2026-06-01",
+        "hora": "18:35",
+        "dia_semana": "Monday",
+        "timestamp": "20260601183505",
         "tz": "+0200"
       },
       "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:56",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602005608",
+        "fecha": "2026-06-01",
+        "hora": "18:47",
+        "dia_semana": "Monday",
+        "timestamp": "20260601184741",
         "tz": "+0200"
       },
-      "serie": "Smiling Friends",
-      "episodio_num": "S01E01",
-      "episodio_titulo": "El gran día de Desmond",
-      "descripcion": "Una pequeña empresa dedicada a llevar la felicidad a todas partes recibe una llamada para ayudar a Desmond a sonreir de nuevo, pero no será tan sencillo como parece.",
+      "serie": "El asombroso mundo de Gumball",
+      "episodio_num": "S04E39",
+      "episodio_titulo": "El Timo",
+      "descripcion": "Gumball y Darwin convencen a sus compañeros de que la escuela está encantada.",
       "categorias": [
         "Series",
         "Animación",
         "Comedia",
+        "Familia",
         "Sci-Fi & Fantasy"
       ]
     },
@@ -3385,22 +2661,613 @@
       "canal_id": "C1.145.ersatztv.org",
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
-        "fecha": "2026-06-02",
-        "hora": "00:56",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602005608",
+        "fecha": "2026-06-01",
+        "hora": "18:47",
+        "dia_semana": "Monday",
+        "timestamp": "20260601184741",
         "tz": "+0200"
       },
       "fin": {
-        "fecha": "2026-06-02",
-        "hora": "00:59",
-        "dia_semana": "Tuesday",
-        "timestamp": "20260602005922",
+        "fecha": "2026-06-01",
+        "hora": "18:51",
+        "dia_semana": "Monday",
+        "timestamp": "20260601185125",
         "tz": "+0200"
       },
       "serie": "MarcaToons",
       "episodio_num": "S01E00",
-      "episodio_titulo": "MarcaToons - La cosa está muy mala",
+      "episodio_titulo": "MarcaToons - Ultimátum a Mourinho",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "18:51",
+        "dia_semana": "Monday",
+        "timestamp": "20260601185125",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "19:02",
+        "dia_semana": "Monday",
+        "timestamp": "20260601190235",
+        "tz": "+0200"
+      },
+      "serie": "Clarence",
+      "episodio_num": "S01E48",
+      "episodio_titulo": "La Separación",
+      "descripcion": "Cuando Jeff y Sumo dejan de ser amigos por una discusión, Clarence forma un plan para que hagan las paces.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "19:02",
+        "dia_semana": "Monday",
+        "timestamp": "20260601190235",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "19:13",
+        "dia_semana": "Monday",
+        "timestamp": "20260601191338",
+        "tz": "+0200"
+      },
+      "serie": "Clarence",
+      "episodio_num": "S01E14",
+      "episodio_titulo": "Ojos de charco",
+      "descripcion": "Clarence, al quedarse dormido en un charco de lodo, es incapaz de ver y ahora Jeff tratará de ganar junto a Sumo y Clarence en un concurso de deletreo.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "19:13",
+        "dia_semana": "Monday",
+        "timestamp": "20260601191338",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "19:27",
+        "dia_semana": "Monday",
+        "timestamp": "20260601192714",
+        "tz": "+0200"
+      },
+      "serie": "Clarence",
+      "episodio_num": "S02E29",
+      "episodio_titulo": "La Dino Aventura de Clarence y Sumo",
+      "descripcion": "Sumo debe enfrentar las consecuencias cuando él y Clarence toman el diente de un esqueleto de dinosaurio en el museo, dejando a Clarence traumatizado.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "19:27",
+        "dia_semana": "Monday",
+        "timestamp": "20260601192714",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "19:30",
+        "dia_semana": "Monday",
+        "timestamp": "20260601193014",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - El fin del Mundo",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "19:30",
+        "dia_semana": "Monday",
+        "timestamp": "20260601193014",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "19:52",
+        "dia_semana": "Monday",
+        "timestamp": "20260601195221",
+        "tz": "+0200"
+      },
+      "serie": "Gravity Falls",
+      "episodio_num": "S02E09",
+      "episodio_titulo": "El dios del amor",
+      "descripcion": "Mabel llega demasiado lejos cuando roba una poción de un verdadero dios del amor para usar sobre Robbie y Tambry. Stan decide crear un globo de aire caliente durante el festival de música Woodstick.",
+      "categorias": [
+        "Series",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "19:52",
+        "dia_semana": "Monday",
+        "timestamp": "20260601195221",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "20:15",
+        "dia_semana": "Monday",
+        "timestamp": "20260601201540",
+        "tz": "+0200"
+      },
+      "serie": "Gravity Falls",
+      "episodio_num": "S01E17",
+      "episodio_titulo": "Los chicos locos",
+      "descripcion": "Cuando Mabel descubre que su banda de chicos favorita es en realidad un montón de clones encarcelados, ella los libera, sólo para decidir quedárselos para sí misma. Mientras tanto, Dipper piensa que Robbie planea lavarle el cerebro a Wendy mediante un mensaje secreto oculto en la letra de una de sus canciones. Cuando él y Stan descubre que es verdad, tratan de detenerlo.",
+      "categorias": [
+        "Series",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Misterio",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "20:15",
+        "dia_semana": "Monday",
+        "timestamp": "20260601201540",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "20:19",
+        "dia_semana": "Monday",
+        "timestamp": "20260601201901",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Con bigotes y a lo loco",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "20:19",
+        "dia_semana": "Monday",
+        "timestamp": "20260601201901",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "20:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601204423",
+        "tz": "+0200"
+      },
+      "serie": "Chowder",
+      "episodio_num": "S01E17",
+      "episodio_titulo": "Episodio 17",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "20:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601204423",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "20:48",
+        "dia_semana": "Monday",
+        "timestamp": "20260601204818",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Mi pueblo no",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "20:48",
+        "dia_semana": "Monday",
+        "timestamp": "20260601204818",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "20:59",
+        "dia_semana": "Monday",
+        "timestamp": "20260601205912",
+        "tz": "+0200"
+      },
+      "serie": "Historias corrientes",
+      "episodio_num": "S07E30",
+      "episodio_titulo": "Marvolo el mago",
+      "descripcion": "Pops cree que es un mago atrapado en el medievo y quiere volver a casa.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "20:59",
+        "dia_semana": "Monday",
+        "timestamp": "20260601205912",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "21:10",
+        "dia_semana": "Monday",
+        "timestamp": "20260601211005",
+        "tz": "+0200"
+      },
+      "serie": "Historias corrientes",
+      "episodio_num": "S04E03",
+      "episodio_titulo": "Cuentos de miedo del parque II",
+      "descripcion": "Mordecai, Rigby y sus amigos van rumbo a una fiesta de Halloween y para pasar el rato cuentas 3 historias de terror.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "21:10",
+        "dia_semana": "Monday",
+        "timestamp": "20260601211005",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "21:22",
+        "dia_semana": "Monday",
+        "timestamp": "20260601212200",
+        "tz": "+0200"
+      },
+      "serie": "Historias corrientes",
+      "episodio_num": "S07E20",
+      "episodio_titulo": "Vacaciones en la fábrica de rosquillas",
+      "descripcion": "Los chicos tienen que devolver una copia de VHS de su peli favorita de terror o pagar una tasa muy alta.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "21:22",
+        "dia_semana": "Monday",
+        "timestamp": "20260601212200",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "21:24",
+        "dia_semana": "Monday",
+        "timestamp": "20260601212434",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - ¿Mande？",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "21:24",
+        "dia_semana": "Monday",
+        "timestamp": "20260601212434",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "21:48",
+        "dia_semana": "Monday",
+        "timestamp": "20260601214859",
+        "tz": "+0200"
+      },
+      "serie": "Futurama",
+      "episodio_num": "S03E01",
+      "episodio_titulo": "El bocinazo",
+      "descripcion": "Cuando un Coche-lobo atropella a otro robot, éste también se convierte en Coche-lobo. Bender es atropellado por uno de ellos en los alrededores de la casa que acaba de heredar de su tío Vladimir y todos los días a las 12, se transforma en uno de los coches asesinos.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "21:48",
+        "dia_semana": "Monday",
+        "timestamp": "20260601214859",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "22:14",
+        "dia_semana": "Monday",
+        "timestamp": "20260601221417",
+        "tz": "+0200"
+      },
+      "serie": "Futurama",
+      "episodio_num": "S01E08",
+      "episodio_titulo": "Una enorme bola de basura",
+      "descripcion": "Una gigantesca bola de basura lanzada de manera descuidada desde la tierra en el siglo XIX está a punto de colisionar con la nueva ciudad de Nueva York. \n\n      ",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "22:14",
+        "dia_semana": "Monday",
+        "timestamp": "20260601221417",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "22:17",
+        "dia_semana": "Monday",
+        "timestamp": "20260601221753",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Regreso al pasado",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "22:17",
+        "dia_semana": "Monday",
+        "timestamp": "20260601221753",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "22:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601224459",
+        "tz": "+0200"
+      },
+      "serie": "South Park",
+      "episodio_num": "S18E05",
+      "episodio_titulo": "El felpudo mágico",
+      "descripcion": "Cartman y Butters miran con asombro un dron y no lograr resistir la tentación de maniobrarlo por la ciudad, causando la envidia de sus compañeros.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "22:44",
+        "dia_semana": "Monday",
+        "timestamp": "20260601224459",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "23:09",
+        "dia_semana": "Monday",
+        "timestamp": "20260601230910",
+        "tz": "+0200"
+      },
+      "serie": "South Park",
+      "episodio_num": "S02E05",
+      "episodio_titulo": "La mujer unida a un feto",
+      "descripcion": "La señora Broflovski realiza una campaña de agradecimiento a una enfermera del colegio que tiene mixlésia de mellizos unidos. Mientras, Chef obliga a los niños a que jueguen en una liga de balón prisionero.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "23:09",
+        "dia_semana": "Monday",
+        "timestamp": "20260601230910",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "23:12",
+        "dia_semana": "Monday",
+        "timestamp": "20260601231227",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Amiguito de la Federación",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "23:12",
+        "dia_semana": "Monday",
+        "timestamp": "20260601231227",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "23:35",
+        "dia_semana": "Monday",
+        "timestamp": "20260601233508",
+        "tz": "+0200"
+      },
+      "serie": "Padre de familia",
+      "episodio_num": "S05E17",
+      "episodio_titulo": "Necesitáis un tonto del pueblo y yo estoy casada con uno",
+      "descripcion": "Lois ofrece su candidatura como alcaldesa para tirar del ayuntamiento a West, pero no empezará a ganar en las encuestas hasta que empieza a decir tonterías para ganarse al electorado. Una vez elegida alcaldesa, no tarda en sucumbir al poder.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "23:35",
+        "dia_semana": "Monday",
+        "timestamp": "20260601233508",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-01",
+        "hora": "23:57",
+        "dia_semana": "Monday",
+        "timestamp": "20260601235759",
+        "tz": "+0200"
+      },
+      "serie": "Padre de familia",
+      "episodio_num": "S04E11",
+      "episodio_titulo": "Peter tiene a Woods",
+      "descripcion": "Brian se enamora de la profesora afroamericana de Meg, solo para complacerla decide pedir en el consejo escolar que cambien el nombre del centro por el de Martin Luther King. Peter empieza a sentir celos de la atención que está recibiendo la mujer y decide traer a James Woods para sabotearle. Enseguida, Peter y Woods se hacen amigos dejando a Brian de lado.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-01",
+        "hora": "23:57",
+        "dia_semana": "Monday",
+        "timestamp": "20260601235759",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "00:00",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602000052",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Este césped es una ruina",
       "descripcion": null,
       "categorias": [
         "Series"
@@ -3411,25 +3278,567 @@
       "canal_nombre": "1 WATCHTIME",
       "inicio": {
         "fecha": "2026-06-02",
-        "hora": "00:59",
+        "hora": "00:00",
         "dia_semana": "Tuesday",
-        "timestamp": "20260602005922",
+        "timestamp": "20260602000052",
         "tz": "+0200"
       },
       "fin": {
         "fecha": "2026-06-02",
-        "hora": "02:18",
+        "hora": "00:11",
         "dia_semana": "Tuesday",
-        "timestamp": "20260602021801",
+        "timestamp": "20260602001151",
+        "tz": "+0200"
+      },
+      "serie": "Robot Chicken",
+      "episodio_num": "S03E07",
+      "episodio_titulo": "Yancy, el niño yoyó",
+      "descripcion": "Los dinosaurios luchan contra su armagedón particular. El Gran Freak Americano. MTV Cribs hoy: Richie Rich el niño más rico del mundo.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "00:11",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602001151",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "00:23",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602002331",
+        "tz": "+0200"
+      },
+      "serie": "Robot Chicken",
+      "episodio_num": "S01E08",
+      "episodio_titulo": "El agujero negro",
+      "descripcion": "Benjamín Franklin nos enseña sus movimientos de kung-fu Kirk Cameron y el Capitán Kirk protagonizan una sitcom y Jesucristo busca venganza",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "00:23",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602002331",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "00:34",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602003446",
+        "tz": "+0200"
+      },
+      "serie": "Robot Chicken",
+      "episodio_num": "S04E12",
+      "episodio_titulo": "Han Pillado a Maurice",
+      "descripcion": "Los hombres lobo y Drácula averiguan por qué no se debe insultar a Simon Belmont ni a su látigo de Castlevania. Annie celebra su 16 cumpleaños.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "00:34",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602003446",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "00:37",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602003737",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Messi lesionado",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "00:37",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602003737",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "00:49",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602004905",
+        "tz": "+0200"
+      },
+      "serie": "Smiling Friends",
+      "episodio_num": "S03E07",
+      "episodio_titulo": "Chusmitufos",
+      "descripcion": "Pim, Charlie y Flint descubren un nuevo mundo lleno de personajes raros. Pero pasa algo y Pim se embarca en su propia aventura… ¿eh?",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "00:49",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602004905",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "01:01",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602010150",
+        "tz": "+0200"
+      },
+      "serie": "Smiling Friends",
+      "episodio_num": "S01E08",
+      "episodio_titulo": "Charlie muere y ya no vuelve",
+      "descripcion": "En el último episodio de la temporada, Charlie de verdad se muere.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "01:01",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602010150",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "01:06",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602010628",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Making of",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "01:06",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602010628",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "02:25",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602022519",
         "tz": "+0200"
       },
       "serie": "La que se avecina",
-      "episodio_num": "S03E04",
-      "episodio_titulo": "Una avispilla, una dominatrix y un moco asesino",
-      "descripcion": "Amador no quiere que su matrimonio con la Cuqui concluya en divorcio, por lo que intentará impedir la venta del hogar conyugal a un tercero a toda costa.",
+      "episodio_num": "S03E05",
+      "episodio_titulo": "Una esquela, una inseminación y una suegra enamorada",
+      "descripcion": "La cuentas de la comunidad siguen en números rojos y para atenuar el problema Antonio Recio decide unilateralmente alquilar ilegalmente el piso del moroso.",
       "categorias": [
         "Series",
         "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "02:25",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602022519",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "03:51",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602035123",
+        "tz": "+0200"
+      },
+      "serie": "La que se avecina",
+      "episodio_num": "S03E09",
+      "episodio_titulo": "Un maharamindri, una suegra al volante y un jardinero metido en un jardín",
+      "descripcion": "Enrique se ilusiona tras haber encontrado por Internet a la que cree su media naranja, y Berta comienza a sentir atracción por su confesor, el padre Alejandro.",
+      "categorias": [
+        "Series",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "03:51",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602035123",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "05:12",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602051253",
+        "tz": "+0200"
+      },
+      "serie": "La que se avecina",
+      "episodio_num": "S03E02",
+      "episodio_titulo": "Un lupanar, un par de suegras y una profanación a lo loco",
+      "descripcion": "Antonio Recio cree que investigando el entorno del moroso puede cobrar la deuda del vecino fallecido, pero la falta de recursos dificultará la investigación del mayorista que no limpia pescado.",
+      "categorias": [
+        "Series",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "05:12",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602051253",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "05:14",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602051452",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Mourinho lo tiene claro",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "05:14",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602051452",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "05:38",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602053855",
+        "tz": "+0200"
+      },
+      "serie": "Chowder",
+      "episodio_num": "S03E04",
+      "episodio_titulo": "Episodio 4",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "05:38",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602053855",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "06:02",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602060238",
+        "tz": "+0200"
+      },
+      "serie": "Chowder",
+      "episodio_num": "S02E16",
+      "episodio_titulo": "Episodio 16",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "06:02",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602060238",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "09:04",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602090442",
+        "tz": "+0200"
+      },
+      "serie": "Chowder",
+      "episodio_num": "S03E08",
+      "episodio_titulo": "Episodio 8",
+      "descripcion": "While trying to go to Mr. Fugu's fruit party, the gang's fruit costumes are destroyed. Now, they must try to get new ones before an angry mob and the police catch them.",
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "09:04",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602090442",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "09:30",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602093010",
+        "tz": "+0200"
+      },
+      "serie": "Doraemon, el gato cósmico",
+      "episodio_num": "S01E26",
+      "episodio_titulo": "La chica blanca y pura como una azucena",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "09:30",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602093010",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "09:55",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602095532",
+        "tz": "+0200"
+      },
+      "serie": "Doraemon, el gato cósmico",
+      "episodio_num": "S01E03",
+      "episodio_titulo": "El interruptor del despotismo",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Action & Adventure",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "09:55",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602095532",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "09:59",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602095905",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Habla con mi abogado",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "09:59",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602095905",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "10:22",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602102229",
+        "tz": "+0200"
+      },
+      "serie": "Shin Chan",
+      "episodio_num": "S00E80",
+      "episodio_titulo": "03x080 (By LeCHuSo)",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "10:22",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602102229",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "10:44",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602104452",
+        "tz": "+0200"
+      },
+      "serie": "Shin Chan",
+      "episodio_num": "S00E244",
+      "episodio_titulo": "06x244 (By LeCHuSo)",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "10:44",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602104452",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "10:52",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602105221",
+        "tz": "+0200"
+      },
+      "serie": "MarcaToons",
+      "episodio_num": "S01E00",
+      "episodio_titulo": "MarcaToons - Cristiano vs. Messi",
+      "descripcion": null,
+      "categorias": [
+        "Series"
+      ]
+    },
+    {
+      "canal_id": "C1.145.ersatztv.org",
+      "canal_nombre": "1 WATCHTIME",
+      "inicio": {
+        "fecha": "2026-06-02",
+        "hora": "10:52",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602105221",
+        "tz": "+0200"
+      },
+      "fin": {
+        "fecha": "2026-06-02",
+        "hora": "11:04",
+        "dia_semana": "Tuesday",
+        "timestamp": "20260602110448",
+        "tz": "+0200"
+      },
+      "serie": "El show de Garfield",
+      "episodio_num": "S01E32",
+      "episodio_titulo": "Episodio 32",
+      "descripcion": null,
+      "categorias": [
+        "Series",
+        "Animación",
+        "Comedia",
+        "Kids"
       ]
     }
   ]
